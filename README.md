@@ -5,10 +5,10 @@ The folder contains executable files for Ontology Integration Framework as well 
 Content:
 - RestTest.jar - Ontology Integration Tool; communicates with NLTK library via REST services
 - server.py - REST services (WordNet functions) used by Ontology Integration Tool
-- TestData - six test cases + motivating example; each test case consists of following elements:
--- 2 ontologies to be merged (*.owl)
--- a file with ontologies alingment (*.rdf)
--- dictionary files with attributes' semantics defined (*.dic); can be renamed or deleted to be skipped
+- TestData - six test cases + motivating example; each test case consists of the following elements:
+ 1) 2 ontologies to be merged (*.owl)
+ 2) a file with ontologies alingment (*.rdf)
+ 3) dictionary files with attributes' semantics defined (*.dic); can be renamed or deleted to be skipped
 
 Prerequisites:
 - Windows 7 or later
