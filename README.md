@@ -6,9 +6,9 @@ Content:
 - RestTest.jar - Ontology Integration Tool; communicates with NLTK library via REST services
 - server.py - REST services (WordNet functions) used by Ontology Integration Tool
 - TestData - six test cases + motivating example; each test case consists of following elements:
---> 2 ontologies to be merged (*.owl)
---> a file with ontologies alingment (*.rdf)
---> dictionary files with attributes' semantics defined (*.dic); can be renamed or deleted to be skipped
+-- 2 ontologies to be merged (*.owl)
+-- a file with ontologies alingment (*.rdf)
+-- dictionary files with attributes' semantics defined (*.dic); can be renamed or deleted to be skipped
 
 Prerequisites:
 - Windows 7 or later
