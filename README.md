@@ -23,8 +23,7 @@ Running procedure:
 3. Run RestTest.jar 
 4. Click Select ontology button and navigate to an ontology to be merged (from test case folders) - *.owl; do it twice 
 5. Click Mapping button and select *.rdf file with ontology mappings
-6. Click Semantic definition button; if dictionaries (*.dic) are present and no data from them are deleted, ontologies will be merged without furhter interaction, and the merged ontology will be presented in a new window; you can copy its content or save it to OWL file;
-otherwise, you will be askes about attributes' semantics:
-6a. If the attribute name exists in WordNet, possible definitions of the notion will be presented; you must select one and click Next
-6b. If the attribute name doesn't exist in WordNet, you can write its synonym which potentially is present in Wordnet, select the proper definition from the list and define if its fits the oryginal meaning (isStrict); to move to the next element, close the window
+6. Click Semantic definition button; if dictionaries (*.dic) are present and no data from them are deleted, ontologies will be merged without furhter interaction, and the merged ontology will be presented in a new window; you can copy its content or save it to an OWL file; otherwise, you will be asked about attributes' semantics:
+- If the attribute name exists in WordNet, possible definitions of the notion will be presented; you must select one and click Next
+- If the attribute name doesn't exist in WordNet, you can write its synonym which potentially is present in Wordnet, select the proper definition from the list and define if its fits the oryginal meaning (isStrict); to move to the next element, close the window
 When the semantics for all attributes is established, the tool will start integration of ontologies.
