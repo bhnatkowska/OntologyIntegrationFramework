@@ -1,0 +1,507 @@
+========================
+Ontology :4 merged_1.owl
+-----------------------------
+4#Program_Committee_member
+Traced from: 3#Program_Committee_member merged_0.owl
+Traced from: 2#Member_PC C:\tests\T4\confOf.owl
+Traced from: 1#Program_Committee_member C:\tests\T4\sigkdd.owl
+-----------------------------
+4#Gold_Supporter
+Traced from: 3#Gold_Supporter merged_0.owl
+Traced from: 1#Gold_Supporter C:\tests\T4\sigkdd.owl
+-----------------------------
+4#Program_Committee
+Traced from: 1#Program_Committee C:\tests\T4\sigkdd.owl
+Traced from: 3#Program_Committee merged_0.owl
+-----------------------------
+4#Author_of_paper
+Traced from: 1#Author_of_paper C:\tests\T4\sigkdd.owl
+Traced from: 3#Author_of_paper merged_0.owl
+-----------------------------
+4#Document
+Traced from: 1#Document C:\tests\T4\sigkdd.owl
+Traced from: 3#Document merged_0.owl
+-----------------------------
+4#Conference
+Traced from: 3#Conference merged_0.owl
+Traced from: 1#Conference C:\tests\T4\sigkdd.owl
+Traced from: 2#Conference C:\tests\T4\confOf.owl
+
+- - - - - - - - - - - - - - - - - - 
+ 4#City_of_conference : xsd:string,
+  true city.n.01
+       Traced from: 3#City_of_conference merged_0.owl  true city.n.01
+       Traced from: 1#City_of_conference C:\tests\T4\sigkdd.owl  true city.n.01
+
+- - - - - - - - - - - - - - - - - - 
+ 4#End_of_conference : xsd:dateTime,
+  true end.n.02
+       Traced from: 1#End_of_conference C:\tests\T4\sigkdd.owl  true end.n.02
+       Traced from: 3#End_of_conference merged_0.owl  true end.n.02
+
+- - - - - - - - - - - - - - - - - - 
+ 4#Name_of_conference : xsd:string,
+  true name.n.01
+       Traced from: 1#Name_of_conference C:\tests\T4\sigkdd.owl  true name.n.01
+       Traced from: 3#Name_of_conference merged_0.owl  true name.n.01
+
+- - - - - - - - - - - - - - - - - - 
+ 4#Start_of_conference : xsd:dateTime,
+  true beginning.n.02
+       Traced from: 1#Start_of_conference C:\tests\T4\sigkdd.owl  true beginning.n.02
+       Traced from: 3#Start_of_conference merged_0.owl  true beginning.n.02
+-----------------------------
+4#ACM_SIGKDD
+Traced from: 1#ACM_SIGKDD C:\tests\T4\sigkdd.owl
+Traced from: 3#ACM_SIGKDD merged_0.owl
+-----------------------------
+4#Best_Student_Paper_Supporter
+Traced from: 1#Best_Student_Paper_Supporter C:\tests\T4\sigkdd.owl
+Traced from: 3#Best_Student_Paper_Supporter merged_0.owl
+-----------------------------
+4#Registration_SIGKDD_Member
+Traced from: 3#Registration_SIGKDD_Member merged_0.owl
+Traced from: 1#Registration_SIGKDD_Member C:\tests\T4\sigkdd.owl
+-----------------------------
+4#Organizator
+Traced from: 1#Organizator C:\tests\T4\sigkdd.owl
+Traced from: 3#Organizator merged_0.owl
+-----------------------------
+4#Program_Chair
+Traced from: 2#Chair_PC C:\tests\T4\confOf.owl
+Traced from: 1#Program_Chair C:\tests\T4\sigkdd.owl
+Traced from: 3#Program_Chair merged_0.owl
+-----------------------------
+4#Best_Applications_Paper_Award
+Traced from: 3#Best_Applications_Paper_Award merged_0.owl
+Traced from: 1#Best_Applications_Paper_Award C:\tests\T4\sigkdd.owl
+-----------------------------
+4#Thing
+Traced from: 3#Thing merged_0.owl
+Traced from: 1#Thing C:\tests\T4\sigkdd.owl
+-----------------------------
+4#Deadline_Paper_Submission
+Traced from: 3#Deadline_Paper_Submission merged_0.owl
+Traced from: 1#Deadline_Paper_Submission C:\tests\T4\sigkdd.owl
+-----------------------------
+4#Platinum_Supporter
+Traced from: 3#Platinum_Supporter merged_0.owl
+Traced from: 1#Platinum_Supporter C:\tests\T4\sigkdd.owl
+-----------------------------
+4#Deadline
+Traced from: 1#Deadline C:\tests\T4\sigkdd.owl
+Traced from: 3#Deadline merged_0.owl
+
+- - - - - - - - - - - - - - - - - - 
+ 4#Date : xsd:dateTime,
+       Traced from: 1#Date C:\tests\T4\sigkdd.owl 
+       Traced from: 3#Date merged_0.owl 
+-----------------------------
+4#Registration_Student
+Traced from: 3#Registration_Student merged_0.owl
+Traced from: 1#Registration_Student C:\tests\T4\sigkdd.owl
+-----------------------------
+4#Deadline_Abstract_Submission
+Traced from: 1#Deadline_Abstract_Submission C:\tests\T4\sigkdd.owl
+Traced from: 3#Deadline_Abstract_Submission merged_0.owl
+-----------------------------
+4#Registration_SIGMOD_Member
+Traced from: 1#Registration_SIGMOD_Member C:\tests\T4\sigkdd.owl
+Traced from: 3#Registration_SIGMOD_Member merged_0.owl
+-----------------------------
+4#Organizing_Committee
+Traced from: 1#Organizing_Committee C:\tests\T4\sigkdd.owl
+Traced from: 3#Organizing_Committee merged_0.owl
+-----------------------------
+4#Silver_Supporter
+Traced from: 1#Silver_Supporter C:\tests\T4\sigkdd.owl
+Traced from: 3#Silver_Supporter merged_0.owl
+-----------------------------
+4#Author
+Traced from: 1#Author C:\tests\T4\sigkdd.owl
+Traced from: 3#Author merged_0.owl
+Traced from: 2#Author C:\tests\T4\confOf.owl
+-----------------------------
+4#Best_Research_Paper_Award
+Traced from: 3#Best_Research_Paper_Award merged_0.owl
+Traced from: 1#Best_Research_Paper_Award C:\tests\T4\sigkdd.owl
+-----------------------------
+4#Person
+Traced from: 3#Person merged_0.owl
+Traced from: 1#Person C:\tests\T4\sigkdd.owl
+Traced from: 2#Person C:\tests\T4\confOf.owl
+
+- - - - - - - - - - - - - - - - - - 
+ 4#Name : xsd:string,
+  true name.n.01
+       Traced from: 2#hasSurname C:\tests\T4\confOf.owl  true surname.n.01
+       Traced from: 3#Name merged_0.owl  true name.n.01
+       Traced from: 2#hasFirstName C:\tests\T4\confOf.owl  true first_name.n.01
+       Traced from: 1#Name C:\tests\T4\sigkdd.owl  true name.n.01
+
+- - - - - - - - - - - - - - - - - - 
+ 4#Nation : xsd:string,
+  true state.n.04
+       Traced from: 1#Nation C:\tests\T4\sigkdd.owl  true state.n.04
+       Traced from: 3#Nation merged_0.owl  true state.n.04
+
+- - - - - - - - - - - - - - - - - - 
+ 4#E-mail : xsd:string,
+  true electronic_mail.n.01
+       Traced from: 1#E-mail C:\tests\T4\sigkdd.owl  true electronic_mail.n.01
+       Traced from: 3#E-mail merged_0.owl  true electronic_mail.n.01
+       Traced from: 2#hasEmail C:\tests\T4\confOf.owl  true electronic_mail.n.01
+
+- - - - - - - - - - - - - - - - - - 
+ 4#hasFax : xsd:string,
+       Traced from: 2#hasFax C:\tests\T4\confOf.owl 
+
+- - - - - - - - - - - - - - - - - - 
+ 4#hasPhone : xsd:string,
+  true phone_number.n.01
+       Traced from: 2#hasPhone C:\tests\T4\confOf.owl  true phone_number.n.01
+
+- - - - - - - - - - - - - - - - - - 
+ 4#hasStreet__74 : xsd:string,
+  true street_address.n.01
+       Traced from: 2#hasStreet C:\tests\T4\confOf.owl  true street_address.n.01
+
+- - - - - - - - - - - - - - - - - - 
+ 4#hasPostalCode__73 : xsd:string,
+  true zip_code.n.01
+       Traced from: 2#hasPostalCode C:\tests\T4\confOf.owl  true zip_code.n.01
+
+- - - - - - - - - - - - - - - - - - 
+ 4#hasHomePage : xsd:string,
+  true home_page.n.01
+       Traced from: 2#hasHomePage C:\tests\T4\confOf.owl  true home_page.n.01
+-----------------------------
+4#Hotel
+Traced from: 3#Hotel merged_0.owl
+Traced from: 1#Hotel C:\tests\T4\sigkdd.owl
+-----------------------------
+4#Sponzor_fee
+Traced from: 1#Sponzor_fee C:\tests\T4\sigkdd.owl
+Traced from: 3#Sponzor_fee merged_0.owl
+-----------------------------
+4#Best_Student_Paper_Award
+Traced from: 3#Best_Student_Paper_Award merged_0.owl
+Traced from: 1#Best_Student_Paper_Award C:\tests\T4\sigkdd.owl
+-----------------------------
+4#Listener
+Traced from: 1#Listener C:\tests\T4\sigkdd.owl
+Traced from: 3#Listener merged_0.owl
+-----------------------------
+4#Review
+Traced from: 1#Review C:\tests\T4\sigkdd.owl
+Traced from: 3#Review merged_0.owl
+-----------------------------
+4#Committee
+Traced from: 3#Committee merged_0.owl
+Traced from: 1#Committee C:\tests\T4\sigkdd.owl
+-----------------------------
+4#Registration_fee
+Traced from: 1#Registration_fee C:\tests\T4\sigkdd.owl
+Traced from: 3#Registration_fee merged_0.owl
+
+- - - - - - - - - - - - - - - - - - 
+ 4#Currency : xsd:string,
+       Traced from: 1#Currency C:\tests\T4\sigkdd.owl 
+       Traced from: 3#Currency merged_0.owl 
+
+- - - - - - - - - - - - - - - - - - 
+ 4#Price : xsd:int,
+       Traced from: 1#Price C:\tests\T4\sigkdd.owl 
+       Traced from: 3#Price merged_0.owl 
+-----------------------------
+4#Organizing_Committee_member
+Traced from: 3#Organizing_Committee_member merged_0.owl
+Traced from: 1#Organizing_Committee_member C:\tests\T4\sigkdd.owl
+-----------------------------
+4#Best_Paper_Awards_Committee
+Traced from: 3#Best_Paper_Awards_Committee merged_0.owl
+Traced from: 1#Best_Paper_Awards_Committee C:\tests\T4\sigkdd.owl
+-----------------------------
+4#Sponzor
+Traced from: 1#Sponzor C:\tests\T4\sigkdd.owl
+Traced from: 3#Sponzor merged_0.owl
+
+- - - - - - - - - - - - - - - - - - 
+ 4#Name_of_sponsor : xsd:string,
+       Traced from: 3#Name_of_sponsor merged_0.owl 
+       Traced from: 1#Name_of_sponsor C:\tests\T4\sigkdd.owl 
+-----------------------------
+4#Exhibitor
+Traced from: 3#Exhibitor merged_0.owl
+Traced from: 1#Exhibitor C:\tests\T4\sigkdd.owl
+-----------------------------
+4#Webmaster
+Traced from: 1#Webmaster C:\tests\T4\sigkdd.owl
+Traced from: 3#Webmaster merged_0.owl
+-----------------------------
+4#Speaker
+Traced from: 1#Speaker C:\tests\T4\sigkdd.owl
+Traced from: 3#Speaker merged_0.owl
+-----------------------------
+4#Author_of_paper_student
+Traced from: 1#Author_of_paper_student C:\tests\T4\sigkdd.owl
+Traced from: 3#Author_of_paper_student merged_0.owl
+-----------------------------
+4#Abstract
+Traced from: 1#Abstract C:\tests\T4\sigkdd.owl
+Traced from: 3#Abstract merged_0.owl
+-----------------------------
+4#Bronze_Supporter
+Traced from: 3#Bronze_Supporter merged_0.owl
+Traced from: 1#Bronze_Supporter C:\tests\T4\sigkdd.owl
+-----------------------------
+4#Fee
+Traced from: 1#Fee C:\tests\T4\sigkdd.owl
+Traced from: 3#Fee merged_0.owl
+-----------------------------
+4#Registration_Non-Member
+Traced from: 1#Registration_Non-Member C:\tests\T4\sigkdd.owl
+Traced from: 3#Registration_Non-Member merged_0.owl
+-----------------------------
+4#Conference_hall
+Traced from: 3#Conference_hall merged_0.owl
+Traced from: 1#Conference_hall C:\tests\T4\sigkdd.owl
+-----------------------------
+4#Main_office
+Traced from: 1#Main_office C:\tests\T4\sigkdd.owl
+Traced from: 3#Main_office merged_0.owl
+-----------------------------
+4#Award
+Traced from: 3#Award merged_0.owl
+Traced from: 1#Award C:\tests\T4\sigkdd.owl
+-----------------------------
+4#Deadline_Author_notification
+Traced from: 3#Deadline_Author_notification merged_0.owl
+Traced from: 1#Deadline_Author_notification C:\tests\T4\sigkdd.owl
+-----------------------------
+4#Paper
+Traced from: 1#Paper C:\tests\T4\sigkdd.owl
+Traced from: 2#Paper C:\tests\T4\confOf.owl
+Traced from: 3#Paper merged_0.owl
+-----------------------------
+4#General_Chair
+Traced from: 3#General_Chair merged_0.owl
+Traced from: 1#General_Chair C:\tests\T4\sigkdd.owl
+-----------------------------
+4#Invited_Speaker
+Traced from: 3#Invited_Speaker merged_0.owl
+Traced from: 1#Invited_Speaker C:\tests\T4\sigkdd.owl
+-----------------------------
+4#Place
+Traced from: 1#Place C:\tests\T4\sigkdd.owl
+Traced from: 3#Place merged_0.owl
+-----------------------------
+4#Company
+Traced from: 2#Company C:\tests\T4\confOf.owl
+-----------------------------
+4#Organization
+Traced from: 2#Organization C:\tests\T4\confOf.owl
+
+- - - - - - - - - - - - - - - - - - 
+ 4#hasStreet__47 : xsd:string,
+  true street_address.n.01
+       Traced from: 2#hasStreet C:\tests\T4\confOf.owl  true street_address.n.01
+
+- - - - - - - - - - - - - - - - - - 
+ 4#hasPostalCode__48 : xsd:string,
+  true zip_code.n.01
+       Traced from: 2#hasPostalCode C:\tests\T4\confOf.owl  true zip_code.n.01
+-----------------------------
+4#Working_event
+Traced from: 2#Working_event C:\tests\T4\confOf.owl
+
+- - - - - - - - - - - - - - - - - - 
+ 4#location__49 : xsd:string,
+  true location.n.01
+       Traced from: 2#location C:\tests\T4\confOf.owl  true location.n.01
+
+- - - - - - - - - - - - - - - - - - 
+ 4#hasVAT__50 : xsd:string,
+  true vat.n.01
+       Traced from: 2#hasVAT C:\tests\T4\confOf.owl  true vat.n.01
+
+- - - - - - - - - - - - - - - - - - 
+ 4#maxChoice__51 : xsd:positiveInteger,
+       Traced from: 2#maxChoice C:\tests\T4\confOf.owl 
+
+- - - - - - - - - - - - - - - - - - 
+ 4#has_title__52 : xsd:string,
+  true title.n.01
+       Traced from: 2#has_title C:\tests\T4\confOf.owl  true title.n.01
+
+- - - - - - - - - - - - - - - - - - 
+ 4#has_short_title__53 : xsd:string,
+       Traced from: 2#has_short_title C:\tests\T4\confOf.owl 
+
+- - - - - - - - - - - - - - - - - - 
+ 4#defaultChoice__54 : xsd:positiveInteger,
+       Traced from: 2#defaultChoice C:\tests\T4\confOf.owl 
+
+- - - - - - - - - - - - - - - - - - 
+ 4#minChoice__55 : xsd:positiveInteger,
+       Traced from: 2#minChoice C:\tests\T4\confOf.owl 
+-----------------------------
+4#Camera_Ready_event
+Traced from: 2#Camera_Ready_event C:\tests\T4\confOf.owl
+-----------------------------
+4#Scholar
+Traced from: 2#Scholar C:\tests\T4\confOf.owl
+-----------------------------
+4#Regular
+Traced from: 2#Regular C:\tests\T4\confOf.owl
+-----------------------------
+4#Volunteer
+Traced from: 2#Volunteer C:\tests\T4\confOf.owl
+-----------------------------
+4#Science_Worker
+Traced from: 2#Science_Worker C:\tests\T4\confOf.owl
+-----------------------------
+4#Reviewing_results_event
+Traced from: 2#Reviewing_results_event C:\tests\T4\confOf.owl
+-----------------------------
+4#Administrative_event
+Traced from: 2#Administrative_event C:\tests\T4\confOf.owl
+-----------------------------
+4#Administrator
+Traced from: 2#Administrator C:\tests\T4\confOf.owl
+-----------------------------
+4#Assistant
+Traced from: 2#Assistant C:\tests\T4\confOf.owl
+-----------------------------
+4#Submission_event
+Traced from: 2#Submission_event C:\tests\T4\confOf.owl
+-----------------------------
+4#Workshop
+Traced from: 2#Workshop C:\tests\T4\confOf.owl
+-----------------------------
+4#Short_paper
+Traced from: 2#Short_paper C:\tests\T4\confOf.owl
+-----------------------------
+4#Topic
+Traced from: 2#Topic C:\tests\T4\confOf.owl
+-----------------------------
+4#Member
+Traced from: 2#Member C:\tests\T4\confOf.owl
+-----------------------------
+4#Registration_of_participants_event
+Traced from: 2#Registration_of_participants_event C:\tests\T4\confOf.owl
+-----------------------------
+4#Thing
+Traced from: 2#Thing C:\tests\T4\confOf.owl
+-----------------------------
+4#Tutorial
+Traced from: 2#Tutorial C:\tests\T4\confOf.owl
+-----------------------------
+4#Trip
+Traced from: 2#Trip C:\tests\T4\confOf.owl
+-----------------------------
+4#Banquet
+Traced from: 2#Banquet C:\tests\T4\confOf.owl
+-----------------------------
+4#Reception
+Traced from: 2#Reception C:\tests\T4\confOf.owl
+-----------------------------
+4#City
+Traced from: 2#City C:\tests\T4\confOf.owl
+-----------------------------
+4#Student
+Traced from: 2#Student C:\tests\T4\confOf.owl
+-----------------------------
+4#Participant
+Traced from: 2#Participant C:\tests\T4\confOf.owl
+
+- - - - - - - - - - - - - - - - - - 
+ 4#earlyRegistration : xsd:boolean,
+       Traced from: 2#earlyRegistration C:\tests\T4\confOf.owl 
+-----------------------------
+4#University
+Traced from: 2#University C:\tests\T4\confOf.owl
+-----------------------------
+4#Poster
+Traced from: 2#Poster C:\tests\T4\confOf.owl
+-----------------------------
+4#Social_event
+Traced from: 2#Social_event C:\tests\T4\confOf.owl
+
+- - - - - - - - - - - - - - - - - - 
+ 4#location__64 : xsd:string,
+  true location.n.01
+       Traced from: 2#location C:\tests\T4\confOf.owl  true location.n.01
+
+- - - - - - - - - - - - - - - - - - 
+ 4#hasVAT__65 : xsd:string,
+  true vat.n.01
+       Traced from: 2#hasVAT C:\tests\T4\confOf.owl  true vat.n.01
+
+- - - - - - - - - - - - - - - - - - 
+ 4#maxChoice__66 : xsd:positiveInteger,
+       Traced from: 2#maxChoice C:\tests\T4\confOf.owl 
+
+- - - - - - - - - - - - - - - - - - 
+ 4#has_title__67 : xsd:string,
+  true title.n.01
+       Traced from: 2#has_title C:\tests\T4\confOf.owl  true title.n.01
+
+- - - - - - - - - - - - - - - - - - 
+ 4#has_short_title__68 : xsd:string,
+       Traced from: 2#has_short_title C:\tests\T4\confOf.owl 
+
+- - - - - - - - - - - - - - - - - - 
+ 4#defaultChoice__69 : xsd:positiveInteger,
+       Traced from: 2#defaultChoice C:\tests\T4\confOf.owl 
+
+- - - - - - - - - - - - - - - - - - 
+ 4#minChoice__70 : xsd:positiveInteger,
+       Traced from: 2#minChoice C:\tests\T4\confOf.owl 
+-----------------------------
+4#Country
+Traced from: 2#Country C:\tests\T4\confOf.owl
+-----------------------------
+4#Event
+Traced from: 2#Event C:\tests\T4\confOf.owl
+
+- - - - - - - - - - - - - - - - - - 
+ 4#starts_on : xsd:string,
+  false beginning.n.02
+       Traced from: 2#starts_on C:\tests\T4\confOf.owl  false beginning.n.02
+
+- - - - - - - - - - - - - - - - - - 
+ 4#ends_on : xsd:string,
+       Traced from: 2#ends_on C:\tests\T4\confOf.owl 
+-----------------------------
+4#Reviewing_event
+Traced from: 2#Reviewing_event C:\tests\T4\confOf.owl
+-----------------------------
+4#Contribution
+Traced from: 2#Contribution C:\tests\T4\confOf.owl
+
+- - - - - - - - - - - - - - - - - - 
+ 4#contactEmail : xsd:string,
+       Traced from: 2#contactEmail C:\tests\T4\confOf.owl 
+
+- - - - - - - - - - - - - - - - - - 
+ 4#hasKeyword : xsd:string,
+       Traced from: 2#hasKeyword C:\tests\T4\confOf.owl 
+
+- - - - - - - - - - - - - - - - - - 
+ 4#hasTitle : xsd:string,
+       Traced from: 2#hasTitle C:\tests\T4\confOf.owl 
+
+- - - - - - - - - - - - - - - - - - 
+ 4#abstract : xsd:string,
+       Traced from: 2#abstract C:\tests\T4\confOf.owl 
+
+- - - - - - - - - - - - - - - - - - 
+ 4#remark : xsd:string,
+       Traced from: 2#remark C:\tests\T4\confOf.owl 
+========================
+Distance at concept level: 0.9478784704033525
+========================
+Total number of concepts: 83
+Total number of merged concepts: 6
+========================
