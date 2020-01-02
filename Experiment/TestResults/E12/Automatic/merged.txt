@@ -1,0 +1,591 @@
+========================
+Ontology :4 merged_1.owl
+-----------------------------
+4#Rejected_contribution
+Traced from: 3#Rejected_contribution merged_0.owl
+Traced from: 1#Rejected_contribution /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+-----------------------------
+4#Regular_contribution
+Traced from: 3#Regular_contribution merged_0.owl
+Traced from: 1#Regular_contribution /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+-----------------------------
+4#Organizing_committee
+Traced from: 1#Organizing_committee /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+Traced from: 3#Organizing_committee merged_0.owl
+-----------------------------
+4#Conference
+Traced from: 1#Conference /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+Traced from: 3#Conference merged_0.owl
+
+- - - - - - - - - - - - - - - - - -
+ 4#has_a_name__0 : xsd:string,
+  true name.n.01
+       Traced from: 3#has_a_name merged_0.owl  true name.n.01
+       Traced from: 1#has_a_name /Users/martinez/2019.12.19 marcin expert 12/conference.owl  true name.n.01
+-----------------------------
+4#Review_expertise
+Traced from: 3#Review_expertise merged_0.owl
+Traced from: 1#Review_expertise /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+
+- - - - - - - - - - - - - - - - - -
+ 4#has_an_expertise : xsd:string,
+       Traced from: 1#has_an_expertise /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+       Traced from: 3#has_an_expertise merged_0.owl
+-----------------------------
+4#Track-workshop_chair
+Traced from: 3#Track-workshop_chair merged_0.owl
+Traced from: 1#Track-workshop_chair /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+-----------------------------
+4#Accepted_contribution
+Traced from: 1#Accepted_contribution /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+Traced from: 3#Accepted_contribution merged_0.owl
+-----------------------------
+4#Written_contribution
+Traced from: 3#Written_contribution merged_0.owl
+Traced from: 1#Written_contribution /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+-----------------------------
+4#Thing
+Traced from: 3#Thing merged_0.owl
+Traced from: 1#Thing /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+-----------------------------
+4#Tutorial
+Traced from: 2#Tutorial /Users/martinez/2019.12.19 marcin expert 12/confOf.owl
+Traced from: 1#Tutorial /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+Traced from: 3#Tutorial merged_0.owl
+-----------------------------
+4#Conference_volume
+Traced from: 2#Conference /Users/martinez/2019.12.19 marcin expert 12/confOf.owl
+Traced from: 3#Conference_volume merged_0.owl
+Traced from: 1#Conference_volume /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+
+- - - - - - - - - - - - - - - - - -
+ 4#has_a_location : xsd:string,
+  false source.n.02
+       Traced from: 1#has_a_location /Users/martinez/2019.12.19 marcin expert 12/conference.owl  false source.n.02
+       Traced from: 3#has_a_location merged_0.owl  false source.n.02
+-----------------------------
+4#Regular_author
+Traced from: 1#Regular_author /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+Traced from: 3#Regular_author merged_0.owl
+Traced from: 2#Author /Users/martinez/2019.12.19 marcin expert 12/confOf.owl
+-----------------------------
+4#Conference_www
+Traced from: 1#Conference_www /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+Traced from: 3#Conference_www merged_0.owl
+
+- - - - - - - - - - - - - - - - - -
+ 4#has_a_URL : xsd:string,
+       Traced from: 1#has_a_URL /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+       Traced from: 3#has_a_URL merged_0.owl
+-----------------------------
+4#Extended_abstract
+Traced from: 3#Extended_abstract merged_0.owl
+Traced from: 1#Extended_abstract /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+-----------------------------
+4#Active_conference_participant
+Traced from: 1#Active_conference_participant /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+Traced from: 3#Active_conference_participant merged_0.owl
+-----------------------------
+4#Review_preference
+Traced from: 3#Review_preference merged_0.owl
+Traced from: 1#Review_preference /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+
+- - - - - - - - - - - - - - - - - -
+ 4#has_a_degree : xsd:int,
+       Traced from: 3#has_a_degree merged_0.owl
+       Traced from: 1#has_a_degree /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+-----------------------------
+4#Late_paid_applicant
+Traced from: 1#Late_paid_applicant /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+Traced from: 3#Late_paid_applicant merged_0.owl
+-----------------------------
+4#Program_committee
+Traced from: 1#Program_committee /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+Traced from: 3#Program_committee merged_0.owl
+-----------------------------
+4#Conference_announcement
+Traced from: 3#Conference_announcement merged_0.owl
+Traced from: 1#Conference_announcement /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+-----------------------------
+4#Poster
+Traced from: 3#Poster merged_0.owl
+Traced from: 2#Poster /Users/martinez/2019.12.19 marcin expert 12/confOf.owl
+Traced from: 1#Poster /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+-----------------------------
+4#Conference_contribution
+Traced from: 3#Conference_contribution merged_0.owl
+Traced from: 2#Contribution /Users/martinez/2019.12.19 marcin expert 12/confOf.owl
+Traced from: 1#Conference_contribution /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+
+- - - - - - - - - - - - - - - - - -
+ 4#abstract : xsd:string,
+  true outline.n.02
+       Traced from: 2#abstract /Users/martinez/2019.12.19 marcin expert 12/confOf.owl  true outline.n.02
+
+- - - - - - - - - - - - - - - - - -
+ 4#hasKeyword : xsd:string,
+  true tag.n.02
+       Traced from: 2#hasKeyword /Users/martinez/2019.12.19 marcin expert 12/confOf.owl  true tag.n.02
+
+- - - - - - - - - - - - - - - - - -
+ 4#contactEmail : xsd:string,
+  true address.n.02
+       Traced from: 2#contactEmail /Users/martinez/2019.12.19 marcin expert 12/confOf.owl  true address.n.02
+
+- - - - - - - - - - - - - - - - - -
+ 4#remark : xsd:string,
+  true remark.n.01
+       Traced from: 2#remark /Users/martinez/2019.12.19 marcin expert 12/confOf.owl  true remark.n.01
+
+- - - - - - - - - - - - - - - - - -
+ 4#hasTitle : xsd:string,
+  false title.n.02
+       Traced from: 2#hasTitle /Users/martinez/2019.12.19 marcin expert 12/confOf.owl  false title.n.02
+-----------------------------
+4#Paid_applicant
+Traced from: 1#Paid_applicant /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+Traced from: 3#Paid_applicant merged_0.owl
+-----------------------------
+4#Conference_part
+Traced from: 1#Conference_part /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+Traced from: 3#Conference_part merged_0.owl
+
+- - - - - - - - - - - - - - - - - -
+ 4#has_a_name__8 : xsd:string,
+  true name.n.01
+       Traced from: 1#has_a_name /Users/martinez/2019.12.19 marcin expert 12/conference.owl  true name.n.01
+       Traced from: 3#has_a_name merged_0.owl  true name.n.01
+-----------------------------
+4#Person
+Traced from: 3#Person merged_0.owl
+Traced from: 1#Person /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+Traced from: 2#Person /Users/martinez/2019.12.19 marcin expert 12/confOf.owl
+
+- - - - - - - - - - - - - - - - - -
+ 4#has_gender : xsd:string,
+  true sex.n.04
+       Traced from: 3#has_gender merged_0.owl  true sex.n.04
+       Traced from: 1#has_gender /Users/martinez/2019.12.19 marcin expert 12/conference.owl  true sex.n.04
+
+- - - - - - - - - - - - - - - - - -
+ 4#has_an_email : xsd:string,
+  true address.n.02
+       Traced from: 3#has_an_email merged_0.owl  true address.n.02
+       Traced from: 2#hasEmail /Users/martinez/2019.12.19 marcin expert 12/confOf.owl  true address.n.02
+       Traced from: 2#hasPostalCode /Users/martinez/2019.12.19 marcin expert 12/confOf.owl  true address.n.02
+       Traced from: 1#has_an_email /Users/martinez/2019.12.19 marcin expert 12/conference.owl  true address.n.02
+
+- - - - - - - - - - - - - - - - - -
+ 4#has_the_first_name : xsd:string,
+  false name.n.01
+       Traced from: 1#has_the_first_name /Users/martinez/2019.12.19 marcin expert 12/conference.owl  false name.n.01
+       Traced from: 2#hasFirstName /Users/martinez/2019.12.19 marcin expert 12/confOf.owl  true name.n.01
+       Traced from: 3#has_the_first_name merged_0.owl  false name.n.01
+
+- - - - - - - - - - - - - - - - - -
+ 4#has_the_last_name : xsd:string,
+  true name.n.01
+       Traced from: 3#has_the_last_name merged_0.owl  true name.n.01
+       Traced from: 1#has_the_last_name /Users/martinez/2019.12.19 marcin expert 12/conference.owl  true name.n.01
+       Traced from: 2#hasSurname /Users/martinez/2019.12.19 marcin expert 12/confOf.owl  true name.n.01
+
+- - - - - - - - - - - - - - - - - -
+ 4#hasStreet__39 : xsd:string,
+  false address.n.02
+       Traced from: 2#hasStreet /Users/martinez/2019.12.19 marcin expert 12/confOf.owl  false address.n.02
+
+- - - - - - - - - - - - - - - - - -
+ 4#hasHomePage : xsd:string,
+  false web_page.n.01
+       Traced from: 2#hasHomePage /Users/martinez/2019.12.19 marcin expert 12/confOf.owl  false web_page.n.01
+
+- - - - - - - - - - - - - - - - - -
+ 4#hasPhone : xsd:string,
+  false phone_number.n.01
+       Traced from: 2#hasPhone /Users/martinez/2019.12.19 marcin expert 12/confOf.owl  false phone_number.n.01
+
+- - - - - - - - - - - - - - - - - -
+ 4#hasFax : xsd:string,
+  false address.n.02
+       Traced from: 2#hasFax /Users/martinez/2019.12.19 marcin expert 12/confOf.owl  false address.n.02
+-----------------------------
+4#Conference_document
+Traced from: 3#Conference_document merged_0.owl
+Traced from: 1#Conference_document /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+
+- - - - - - - - - - - - - - - - - -
+ 4#has_a_date_of_issue : xsd:date,
+       Traced from: 3#has_a_date_of_issue merged_0.owl
+       Traced from: 1#has_a_date_of_issue /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+-----------------------------
+4#Organization
+Traced from: 1#Organization /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+Traced from: 3#Organization merged_0.owl
+Traced from: 2#Organization /Users/martinez/2019.12.19 marcin expert 12/confOf.owl
+
+- - - - - - - - - - - - - - - - - -
+ 4#hasStreet__0 : xsd:string,
+  false address.n.02
+       Traced from: 2#hasStreet /Users/martinez/2019.12.19 marcin expert 12/confOf.owl  false address.n.02
+
+- - - - - - - - - - - - - - - - - -
+ 4#hasPostalCode : xsd:string,
+  true address.n.02
+       Traced from: 2#hasPostalCode /Users/martinez/2019.12.19 marcin expert 12/confOf.owl  true address.n.02
+-----------------------------
+4#Organizer
+Traced from: 1#Organizer /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+Traced from: 3#Organizer merged_0.owl
+-----------------------------
+4#Chair
+Traced from: 3#Chair merged_0.owl
+Traced from: 1#Chair /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+-----------------------------
+4#Information_for_participants
+Traced from: 3#Information_for_participants merged_0.owl
+Traced from: 1#Information_for_participants /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+-----------------------------
+4#Review
+Traced from: 1#Review /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+Traced from: 3#Review merged_0.owl
+-----------------------------
+4#Committee
+Traced from: 1#Committee /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+Traced from: 3#Committee merged_0.owl
+-----------------------------
+4#Important_dates
+Traced from: 1#Important_dates /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+Traced from: 3#Important_dates merged_0.owl
+
+- - - - - - - - - - - - - - - - - -
+ 4#is_a_full_paper_submission_date : xsd:date,
+       Traced from: 1#is_a_full_paper_submission_date /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+       Traced from: 3#is_a_full_paper_submission_date merged_0.owl
+
+- - - - - - - - - - - - - - - - - -
+ 4#is_a_date_of_acceptance_announcement : xsd:date,
+       Traced from: 3#is_a_date_of_acceptance_announcement merged_0.owl
+       Traced from: 1#is_a_date_of_acceptance_announcement /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+
+- - - - - - - - - - - - - - - - - -
+ 4#is_a_starting_date : xsd:date,
+       Traced from: 1#is_a_starting_date /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+       Traced from: 3#is_a_starting_date merged_0.owl
+
+- - - - - - - - - - - - - - - - - -
+ 4#is_a_date_of_camera_ready_paper_submission : xsd:date,
+       Traced from: 1#is_a_date_of_camera_ready_paper_submission /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+       Traced from: 3#is_a_date_of_camera_ready_paper_submission merged_0.owl
+
+- - - - - - - - - - - - - - - - - -
+ 4#is_an_ending_date : xsd:date,
+       Traced from: 3#is_an_ending_date merged_0.owl
+       Traced from: 1#is_an_ending_date /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+
+- - - - - - - - - - - - - - - - - -
+ 4#is_an_abstract_submission_date : xsd:date,
+       Traced from: 3#is_an_abstract_submission_date merged_0.owl
+       Traced from: 1#is_an_abstract_submission_date /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+-----------------------------
+4#Steering_committee
+Traced from: 1#Steering_committee /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+Traced from: 3#Steering_committee merged_0.owl
+-----------------------------
+4#Call_for_paper
+Traced from: 3#Call_for_paper merged_0.owl
+Traced from: 1#Call_for_paper /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+-----------------------------
+4#Camera_ready_contribution
+Traced from: 1#Camera_ready_contribution /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+Traced from: 3#Camera_ready_contribution merged_0.owl
+-----------------------------
+4#Invited_speaker
+Traced from: 3#Invited_speaker merged_0.owl
+Traced from: 1#Invited_speaker /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+-----------------------------
+4#Conference_participant
+Traced from: 3#Conference_participant merged_0.owl
+Traced from: 1#Conference_participant /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+Traced from: 2#Participant /Users/martinez/2019.12.19 marcin expert 12/confOf.owl
+
+- - - - - - - - - - - - - - - - - -
+ 4#earlyRegistration : xsd:boolean,
+  false date.n.07
+       Traced from: 2#earlyRegistration /Users/martinez/2019.12.19 marcin expert 12/confOf.owl  false date.n.07
+-----------------------------
+4#Reviewed_contribution
+Traced from: 3#Reviewed_contribution merged_0.owl
+Traced from: 1#Reviewed_contribution /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+-----------------------------
+4#Invited_talk
+Traced from: 1#Invited_talk /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+Traced from: 3#Invited_talk merged_0.owl
+-----------------------------
+4#Workshop
+Traced from: 3#Workshop merged_0.owl
+Traced from: 1#Workshop /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+Traced from: 2#Workshop /Users/martinez/2019.12.19 marcin expert 12/confOf.owl
+-----------------------------
+4#Topic
+Traced from: 1#Topic /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+Traced from: 2#Topic /Users/martinez/2019.12.19 marcin expert 12/confOf.owl
+Traced from: 3#Topic merged_0.owl
+
+- - - - - - - - - - - - - - - - - -
+ 4#has_a_name__22 : xsd:string,
+  true name.n.01
+       Traced from: 3#has_a_name merged_0.owl  true name.n.01
+       Traced from: 1#has_a_name /Users/martinez/2019.12.19 marcin expert 12/conference.owl  true name.n.01
+-----------------------------
+4#Passive_conference_participant
+Traced from: 1#Passive_conference_participant /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+Traced from: 3#Passive_conference_participant merged_0.owl
+-----------------------------
+4#Abstract
+Traced from: 3#Abstract merged_0.owl
+Traced from: 1#Abstract /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+-----------------------------
+4#Contribution_1th-author
+Traced from: 3#Contribution_1th-author merged_0.owl
+Traced from: 1#Contribution_1th-author /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+-----------------------------
+4#Contribution_co-author
+Traced from: 1#Contribution_co-author /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+Traced from: 3#Contribution_co-author merged_0.owl
+-----------------------------
+4#Conference_contributor
+Traced from: 1#Conference_contributor /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+Traced from: 3#Conference_contributor merged_0.owl
+-----------------------------
+4#Committee_member
+Traced from: 3#Committee_member merged_0.owl
+Traced from: 1#Committee_member /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+-----------------------------
+4#Publisher
+Traced from: 1#Publisher /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+Traced from: 3#Publisher merged_0.owl
+
+- - - - - - - - - - - - - - - - - -
+ 4#has_a_name__12 : xsd:string,
+  true name.n.01
+       Traced from: 1#has_a_name /Users/martinez/2019.12.19 marcin expert 12/conference.owl  true name.n.01
+       Traced from: 3#has_a_name merged_0.owl  true name.n.01
+-----------------------------
+4#Presentation
+Traced from: 3#Presentation merged_0.owl
+Traced from: 1#Presentation /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+-----------------------------
+4#Reviewer
+Traced from: 3#Reviewer merged_0.owl
+Traced from: 1#Reviewer /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+-----------------------------
+4#Conference_proceedings
+Traced from: 1#Conference_proceedings /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+Traced from: 3#Conference_proceedings merged_0.owl
+
+- - - - - - - - - - - - - - - - - -
+ 4#has_an_ISBN : xsd:string,
+       Traced from: 3#has_an_ISBN merged_0.owl
+       Traced from: 1#has_an_ISBN /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+
+- - - - - - - - - - - - - - - - - -
+ 4#has_a_name__14 : xsd:string,
+  true name.n.01
+       Traced from: 3#has_a_name merged_0.owl  true name.n.01
+       Traced from: 1#has_a_name /Users/martinez/2019.12.19 marcin expert 12/conference.owl  true name.n.01
+
+- - - - - - - - - - - - - - - - - -
+ 4#has_a_volume : xsd:int,
+       Traced from: 3#has_a_volume merged_0.owl
+       Traced from: 1#has_a_volume /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+-----------------------------
+4#Early_paid_applicant
+Traced from: 3#Early_paid_applicant merged_0.owl
+Traced from: 1#Early_paid_applicant /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+-----------------------------
+4#Co-chair
+Traced from: 1#Co-chair /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+Traced from: 3#Co-chair merged_0.owl
+-----------------------------
+4#Submitted_contribution
+Traced from: 3#Submitted_contribution merged_0.owl
+Traced from: 1#Submitted_contribution /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+-----------------------------
+4#Conference_fees
+Traced from: 1#Conference_fees /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+Traced from: 3#Conference_fees merged_0.owl
+-----------------------------
+4#Paper
+Traced from: 1#Paper /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+Traced from: 2#Paper /Users/martinez/2019.12.19 marcin expert 12/confOf.owl
+Traced from: 3#Paper merged_0.owl
+-----------------------------
+4#Registeered_applicant
+Traced from: 3#Registeered_applicant merged_0.owl
+Traced from: 1#Registeered_applicant /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+-----------------------------
+4#Call_for_participation
+Traced from: 3#Call_for_participation merged_0.owl
+Traced from: 1#Call_for_participation /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+-----------------------------
+4#Conference_applicant
+Traced from: 1#Conference_applicant /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+Traced from: 3#Conference_applicant merged_0.owl
+-----------------------------
+4#Track
+Traced from: 3#Track merged_0.owl
+Traced from: 1#Track /Users/martinez/2019.12.19 marcin expert 12/conference.owl
+-----------------------------
+4#Company
+Traced from: 2#Company /Users/martinez/2019.12.19 marcin expert 12/confOf.owl
+-----------------------------
+4#Working_event
+Traced from: 2#Working_event /Users/martinez/2019.12.19 marcin expert 12/confOf.owl
+
+- - - - - - - - - - - - - - - - - -
+ 4#defaultChoice__15 : xsd:positiveInteger,
+       Traced from: 2#defaultChoice /Users/martinez/2019.12.19 marcin expert 12/confOf.owl
+
+- - - - - - - - - - - - - - - - - -
+ 4#hasVAT__16 : xsd:string,
+       Traced from: 2#hasVAT /Users/martinez/2019.12.19 marcin expert 12/confOf.owl
+
+- - - - - - - - - - - - - - - - - -
+ 4#has_title__17 : xsd:string,
+       Traced from: 2#has_title /Users/martinez/2019.12.19 marcin expert 12/confOf.owl
+
+- - - - - - - - - - - - - - - - - -
+ 4#maxChoice__18 : xsd:positiveInteger,
+       Traced from: 2#maxChoice /Users/martinez/2019.12.19 marcin expert 12/confOf.owl
+
+- - - - - - - - - - - - - - - - - -
+ 4#has_short_title__19 : xsd:string,
+       Traced from: 2#has_short_title /Users/martinez/2019.12.19 marcin expert 12/confOf.owl
+
+- - - - - - - - - - - - - - - - - -
+ 4#minChoice__20 : xsd:positiveInteger,
+       Traced from: 2#minChoice /Users/martinez/2019.12.19 marcin expert 12/confOf.owl
+
+- - - - - - - - - - - - - - - - - -
+ 4#location__21 : xsd:string,
+       Traced from: 2#location /Users/martinez/2019.12.19 marcin expert 12/confOf.owl
+-----------------------------
+4#Camera_Ready_event
+Traced from: 2#Camera_Ready_event /Users/martinez/2019.12.19 marcin expert 12/confOf.owl
+-----------------------------
+4#Scholar
+Traced from: 2#Scholar /Users/martinez/2019.12.19 marcin expert 12/confOf.owl
+-----------------------------
+4#Regular
+Traced from: 2#Regular /Users/martinez/2019.12.19 marcin expert 12/confOf.owl
+-----------------------------
+4#Volunteer
+Traced from: 2#Volunteer /Users/martinez/2019.12.19 marcin expert 12/confOf.owl
+-----------------------------
+4#Science_Worker
+Traced from: 2#Science_Worker /Users/martinez/2019.12.19 marcin expert 12/confOf.owl
+-----------------------------
+4#Reviewing_results_event
+Traced from: 2#Reviewing_results_event /Users/martinez/2019.12.19 marcin expert 12/confOf.owl
+-----------------------------
+4#Administrative_event
+Traced from: 2#Administrative_event /Users/martinez/2019.12.19 marcin expert 12/confOf.owl
+-----------------------------
+4#Administrator
+Traced from: 2#Administrator /Users/martinez/2019.12.19 marcin expert 12/confOf.owl
+-----------------------------
+4#Assistant
+Traced from: 2#Assistant /Users/martinez/2019.12.19 marcin expert 12/confOf.owl
+-----------------------------
+4#Submission_event
+Traced from: 2#Submission_event /Users/martinez/2019.12.19 marcin expert 12/confOf.owl
+-----------------------------
+4#Short_paper
+Traced from: 2#Short_paper /Users/martinez/2019.12.19 marcin expert 12/confOf.owl
+-----------------------------
+4#Member
+Traced from: 2#Member /Users/martinez/2019.12.19 marcin expert 12/confOf.owl
+-----------------------------
+4#Registration_of_participants_event
+Traced from: 2#Registration_of_participants_event /Users/martinez/2019.12.19 marcin expert 12/confOf.owl
+-----------------------------
+4#Thing
+Traced from: 2#Thing /Users/martinez/2019.12.19 marcin expert 12/confOf.owl
+-----------------------------
+4#Trip
+Traced from: 2#Trip /Users/martinez/2019.12.19 marcin expert 12/confOf.owl
+-----------------------------
+4#Banquet
+Traced from: 2#Banquet /Users/martinez/2019.12.19 marcin expert 12/confOf.owl
+-----------------------------
+4#Member_PC
+Traced from: 2#Member_PC /Users/martinez/2019.12.19 marcin expert 12/confOf.owl
+-----------------------------
+4#Reception
+Traced from: 2#Reception /Users/martinez/2019.12.19 marcin expert 12/confOf.owl
+-----------------------------
+4#City
+Traced from: 2#City /Users/martinez/2019.12.19 marcin expert 12/confOf.owl
+-----------------------------
+4#Student
+Traced from: 2#Student /Users/martinez/2019.12.19 marcin expert 12/confOf.owl
+-----------------------------
+4#Chair_PC
+Traced from: 2#Chair_PC /Users/martinez/2019.12.19 marcin expert 12/confOf.owl
+-----------------------------
+4#University
+Traced from: 2#University /Users/martinez/2019.12.19 marcin expert 12/confOf.owl
+-----------------------------
+4#Social_event
+Traced from: 2#Social_event /Users/martinez/2019.12.19 marcin expert 12/confOf.owl
+
+- - - - - - - - - - - - - - - - - -
+ 4#defaultChoice__30 : xsd:positiveInteger,
+       Traced from: 2#defaultChoice /Users/martinez/2019.12.19 marcin expert 12/confOf.owl
+
+- - - - - - - - - - - - - - - - - -
+ 4#hasVAT__31 : xsd:string,
+       Traced from: 2#hasVAT /Users/martinez/2019.12.19 marcin expert 12/confOf.owl
+
+- - - - - - - - - - - - - - - - - -
+ 4#has_title__32 : xsd:string,
+       Traced from: 2#has_title /Users/martinez/2019.12.19 marcin expert 12/confOf.owl
+
+- - - - - - - - - - - - - - - - - -
+ 4#maxChoice__33 : xsd:positiveInteger,
+       Traced from: 2#maxChoice /Users/martinez/2019.12.19 marcin expert 12/confOf.owl
+
+- - - - - - - - - - - - - - - - - -
+ 4#has_short_title__34 : xsd:string,
+       Traced from: 2#has_short_title /Users/martinez/2019.12.19 marcin expert 12/confOf.owl
+
+- - - - - - - - - - - - - - - - - -
+ 4#minChoice__35 : xsd:positiveInteger,
+       Traced from: 2#minChoice /Users/martinez/2019.12.19 marcin expert 12/confOf.owl
+
+- - - - - - - - - - - - - - - - - -
+ 4#location__36 : xsd:string,
+       Traced from: 2#location /Users/martinez/2019.12.19 marcin expert 12/confOf.owl
+-----------------------------
+4#Country
+Traced from: 2#Country /Users/martinez/2019.12.19 marcin expert 12/confOf.owl
+-----------------------------
+4#Event
+Traced from: 2#Event /Users/martinez/2019.12.19 marcin expert 12/confOf.owl
+
+- - - - - - - - - - - - - - - - - -
+ 4#starts_on : xsd:string,
+       Traced from: 2#starts_on /Users/martinez/2019.12.19 marcin expert 12/confOf.owl
+
+- - - - - - - - - - - - - - - - - -
+ 4#ends_on : xsd:string,
+       Traced from: 2#ends_on /Users/martinez/2019.12.19 marcin expert 12/confOf.owl
+-----------------------------
+4#Reviewing_event
+Traced from: 2#Reviewing_event /Users/martinez/2019.12.19 marcin expert 12/confOf.owl
+========================
+Distance at concept level: 0.9369834710743802
+========================
+Total number of concepts: 88
+Total number of merged concepts: 11
+========================

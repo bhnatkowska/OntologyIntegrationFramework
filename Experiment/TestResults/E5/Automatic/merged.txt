@@ -1,0 +1,777 @@
+========================
+Ontology :4 merged_1.owl
+-----------------------------
+4#OperatingTopicsystems
+Traced from: 1#OperatingTopicsystems C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+Traced from: 3#OperatingTopicsystems merged_0.owl
+-----------------------------
+4#RatedPapers
+Traced from: 1#RatedPapers C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+Traced from: 3#RatedPapers merged_0.owl
+-----------------------------
+4#ComputerNetworksTopic
+Traced from: 3#ComputerNetworksTopic merged_0.owl
+Traced from: 1#ComputerNetworksTopic C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+-----------------------------
+4#Document
+Traced from: 2#Conference_document C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl
+Traced from: 1#Document C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+Traced from: 3#Document merged_0.owl
+
+- - - - - - - - - - - - - - - - - - 
+ 4#has_a_date_of_issue : xsd:date,
+       Traced from: 2#has_a_date_of_issue C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl 
+-----------------------------
+4#Conference
+Traced from: 3#Conference merged_0.owl
+Traced from: 2#Conference_volume C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl
+Traced from: 1#Conference C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+
+- - - - - - - - - - - - - - - - - - 
+ 4#startDate : xsd:dateTime,
+  true beginning.n.02
+       Traced from: 3#startDate merged_0.owl  true beginning.n.02
+       Traced from: 1#startDate C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl  true beginning.n.02
+
+- - - - - - - - - - - - - - - - - - 
+ 4#hasName : xsd:string,
+  true name.n.01
+       Traced from: 1#hasName C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl  true name.n.01
+       Traced from: 3#hasName merged_0.owl  true name.n.01
+
+- - - - - - - - - - - - - - - - - - 
+ 4#endDate : xsd:dateTime,
+  true end.n.02
+       Traced from: 1#endDate C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl  true end.n.02
+       Traced from: 3#endDate merged_0.owl  true end.n.02
+
+- - - - - - - - - - - - - - - - - - 
+ 4#registrationDueOn : xsd:dateTime,
+       Traced from: 1#registrationDueOn C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl 
+       Traced from: 3#registrationDueOn merged_0.owl 
+
+- - - - - - - - - - - - - - - - - - 
+ 4#paperDueOn : xsd:dateTime,
+       Traced from: 3#paperDueOn merged_0.owl 
+       Traced from: 1#paperDueOn C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl 
+
+- - - - - - - - - - - - - - - - - - 
+ 4#manuscriptDueOn : xsd:dateTime,
+       Traced from: 3#manuscriptDueOn merged_0.owl 
+       Traced from: 1#manuscriptDueOn C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl 
+
+- - - - - - - - - - - - - - - - - - 
+ 4#has_a_location : xsd:string,
+  true localization.n.01
+       Traced from: 2#has_a_location C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl  true localization.n.01
+-----------------------------
+4#CryptographyTopic
+Traced from: 1#CryptographyTopic C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+Traced from: 3#CryptographyTopic merged_0.owl
+-----------------------------
+4#PowerlineTransmissionTopic
+Traced from: 3#PowerlineTransmissionTopic merged_0.owl
+Traced from: 1#PowerlineTransmissionTopic C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+-----------------------------
+4#MedicineTopic
+Traced from: 3#MedicineTopic merged_0.owl
+Traced from: 1#MedicineTopic C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+-----------------------------
+4#MealBreak
+Traced from: 3#MealBreak merged_0.owl
+Traced from: 1#MealBreak C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+-----------------------------
+4#SatelliteAndSpaceCommunicationsTopic
+Traced from: 3#SatelliteAndSpaceCommunicationsTopic merged_0.owl
+Traced from: 1#SatelliteAndSpaceCommunicationsTopic C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+-----------------------------
+4#CallForManuscripts
+Traced from: 3#CallForManuscripts merged_0.owl
+Traced from: 1#CallForManuscripts C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+-----------------------------
+4#ConferenceVenuePlace
+Traced from: 3#ConferenceVenuePlace merged_0.owl
+Traced from: 1#ConferenceVenuePlace C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+-----------------------------
+4#ComputerNetworksAapplicationsTopic
+Traced from: 3#ComputerNetworksAapplicationsTopic merged_0.owl
+Traced from: 1#ComputerNetworksAapplicationsTopic C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+-----------------------------
+4#Thing
+Traced from: 3#Thing merged_0.owl
+Traced from: 1#Thing C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+-----------------------------
+4#AcademicEvent
+Traced from: 3#AcademicEvent merged_0.owl
+Traced from: 1#AcademicEvent C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+-----------------------------
+4#Reception
+Traced from: 3#Reception merged_0.owl
+Traced from: 1#Reception C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+-----------------------------
+4#TwoLevelConference
+Traced from: 1#TwoLevelConference C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+Traced from: 3#TwoLevelConference merged_0.owl
+-----------------------------
+4#FreeTimeBreak
+Traced from: 1#FreeTimeBreak C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+Traced from: 3#FreeTimeBreak merged_0.owl
+-----------------------------
+4#PaperPresentation
+Traced from: 3#PaperPresentation merged_0.owl
+Traced from: 1#PaperPresentation C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+-----------------------------
+4#ComputerNetworksSecurityTopic
+Traced from: 1#ComputerNetworksSecurityTopic C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+Traced from: 3#ComputerNetworksSecurityTopic merged_0.owl
+-----------------------------
+4#Sponsorship
+Traced from: 3#Sponsorship merged_0.owl
+Traced from: 1#Sponsorship C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+
+- - - - - - - - - - - - - - - - - - 
+ 4#hasCostAmount : xsd:int,
+       Traced from: 1#hasCostAmount C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl 
+       Traced from: 3#hasCostAmount merged_0.owl 
+
+- - - - - - - - - - - - - - - - - - 
+ 4#hasCostCurrency : xsd:string,
+       Traced from: 1#hasCostCurrency C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl 
+       Traced from: 3#hasCostCurrency merged_0.owl 
+-----------------------------
+4#AntennasTopic
+Traced from: 1#AntennasTopic C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+Traced from: 3#AntennasTopic merged_0.owl
+-----------------------------
+4#TestOnlyTopic
+Traced from: 1#TestOnlyTopic C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+Traced from: 3#TestOnlyTopic merged_0.owl
+-----------------------------
+4#WithdrawnPaper
+Traced from: 3#WithdrawnPaper merged_0.owl
+Traced from: 1#WithdrawnPaper C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+-----------------------------
+4#Author
+Traced from: 3#Author merged_0.owl
+Traced from: 2#Regular_author C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl
+Traced from: 1#Author C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+-----------------------------
+4#Country
+Traced from: 1#Country C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+Traced from: 3#Country merged_0.owl
+-----------------------------
+4#Person
+Traced from: 3#Person merged_0.owl
+Traced from: 2#Person C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl
+Traced from: 1#Person C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+
+- - - - - - - - - - - - - - - - - - 
+ 4#hasFirstName : xsd:string,
+  true first_name.n.01
+       Traced from: 3#hasFirstName merged_0.owl  true first_name.n.01
+       Traced from: 1#hasFirstName C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl  true first_name.n.01
+       Traced from: 2#has_the_first_name C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl  true first_name.n.01
+
+- - - - - - - - - - - - - - - - - - 
+ 4#hasBiography : xsd:string,
+  true biography.n.01
+       Traced from: 3#hasBiography merged_0.owl  true biography.n.01
+       Traced from: 1#hasBiography C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl  true biography.n.01
+
+- - - - - - - - - - - - - - - - - - 
+ 4#hasEmail__8 : xsd:string,
+  true electronic_mail.n.01
+       Traced from: 1#hasEmail C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl  true electronic_mail.n.01
+       Traced from: 3#hasEmail merged_0.owl  true electronic_mail.n.01
+       Traced from: 2#has_an_email C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl  true electronic_mail.n.01
+
+- - - - - - - - - - - - - - - - - - 
+ 4#hasLastName : xsd:string,
+  true surname.n.01
+       Traced from: 3#hasLastName merged_0.owl  true surname.n.01
+       Traced from: 2#has_the_last_name C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl  true surname.n.01
+       Traced from: 1#hasLastName C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl  true surname.n.01
+
+- - - - - - - - - - - - - - - - - - 
+ 4#has_gender : xsd:string,
+  true gender.n.01
+       Traced from: 2#has_gender C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl  true gender.n.01
+-----------------------------
+4#SignalProcessingTopic
+Traced from: 1#SignalProcessingTopic C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+Traced from: 3#SignalProcessingTopic merged_0.owl
+-----------------------------
+4#TextualReviewQuestion
+Traced from: 1#TextualReviewQuestion C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+Traced from: 3#TextualReviewQuestion merged_0.owl
+-----------------------------
+4#WelcomeTalk
+Traced from: 1#WelcomeTalk C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+Traced from: 3#WelcomeTalk merged_0.owl
+-----------------------------
+4#ClosingTalk
+Traced from: 3#ClosingTalk merged_0.owl
+Traced from: 1#ClosingTalk C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+-----------------------------
+4#PersonalHistory
+Traced from: 3#PersonalHistory merged_0.owl
+Traced from: 1#PersonalHistory C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+-----------------------------
+4#DiningPlace
+Traced from: 1#DiningPlace C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+Traced from: 3#DiningPlace merged_0.owl
+-----------------------------
+4#Organization
+Traced from: 3#Organization merged_0.owl
+Traced from: 1#Organization C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+Traced from: 2#Organization C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl
+-----------------------------
+4#ComputerArchitectureTopic
+Traced from: 1#ComputerArchitectureTopic C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+Traced from: 3#ComputerArchitectureTopic merged_0.owl
+-----------------------------
+4#PublishedPaper
+Traced from: 3#PublishedPaper merged_0.owl
+Traced from: 1#PublishedPaper C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+-----------------------------
+4#CallForPapers
+Traced from: 3#CallForPapers merged_0.owl
+Traced from: 1#CallForPapers C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+-----------------------------
+4#PersonalReviewHistory
+Traced from: 3#PersonalReviewHistory merged_0.owl
+Traced from: 1#PersonalReviewHistory C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+-----------------------------
+4#Programme
+Traced from: 1#Programme C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+Traced from: 3#Programme merged_0.owl
+-----------------------------
+4#ReviewRating
+Traced from: 1#ReviewRating C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+Traced from: 3#ReviewRating merged_0.owl
+-----------------------------
+4#ComputerNetworksEnterpriseTopic
+Traced from: 3#ComputerNetworksEnterpriseTopic merged_0.owl
+Traced from: 1#ComputerNetworksEnterpriseTopic C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+-----------------------------
+4#NonAcademicEvent
+Traced from: 1#NonAcademicEvent C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+Traced from: 3#NonAcademicEvent merged_0.owl
+-----------------------------
+4#NumericalReviewQuestion
+Traced from: 1#NumericalReviewQuestion C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+Traced from: 3#NumericalReviewQuestion merged_0.owl
+-----------------------------
+4#SocialEvent
+Traced from: 1#SocialEvent C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+Traced from: 3#SocialEvent merged_0.owl
+-----------------------------
+4#RejectRating
+Traced from: 1#RejectRating C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+Traced from: 3#RejectRating merged_0.owl
+-----------------------------
+4#OrganizationalMeeting
+Traced from: 1#OrganizationalMeeting C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+Traced from: 3#OrganizationalMeeting merged_0.owl
+-----------------------------
+4#Workshop
+Traced from: 3#Workshop merged_0.owl
+Traced from: 1#Workshop C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+Traced from: 2#Workshop C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl
+-----------------------------
+4#CommunicationsTopic
+Traced from: 1#CommunicationsTopic C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+Traced from: 3#CommunicationsTopic merged_0.owl
+-----------------------------
+4#PersonalPublicationHistory
+Traced from: 1#PersonalPublicationHistory C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+Traced from: 3#PersonalPublicationHistory merged_0.owl
+-----------------------------
+4#Call
+Traced from: 1#Call C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+Traced from: 3#Call merged_0.owl
+
+- - - - - - - - - - - - - - - - - - 
+ 4#hasSubmissionDeadline : xsd:dateTime,
+       Traced from: 3#hasSubmissionDeadline merged_0.owl 
+       Traced from: 1#hasSubmissionDeadline C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl 
+
+- - - - - - - - - - - - - - - - - - 
+ 4#hasSubmissionInstructions : xsd:string,
+       Traced from: 3#hasSubmissionInstructions merged_0.owl 
+       Traced from: 1#hasSubmissionInstructions C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl 
+-----------------------------
+4#ParallelAndDistributedComputingTopic
+Traced from: 1#ParallelAndDistributedComputingTopic C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+Traced from: 3#ParallelAndDistributedComputingTopic merged_0.owl
+-----------------------------
+4#CommunicationTheoryTopic
+Traced from: 1#CommunicationTheoryTopic C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+Traced from: 3#CommunicationTheoryTopic merged_0.owl
+-----------------------------
+4#CADTopic
+Traced from: 3#CADTopic merged_0.owl
+Traced from: 1#CADTopic C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+-----------------------------
+4#Reviewer
+Traced from: 2#Reviewer C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl
+Traced from: 1#Reviewer C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+Traced from: 3#Reviewer merged_0.owl
+-----------------------------
+4#AcceptedPaper
+Traced from: 2#Accepted_contribution C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl
+Traced from: 1#AcceptedPaper C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+Traced from: 3#AcceptedPaper merged_0.owl
+-----------------------------
+4#GovernmentOrganization
+Traced from: 1#GovernmentOrganization C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+Traced from: 3#GovernmentOrganization merged_0.owl
+-----------------------------
+4#MultimediaTopic
+Traced from: 3#MultimediaTopic merged_0.owl
+Traced from: 1#MultimediaTopic C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+-----------------------------
+4#ConferenceChair
+Traced from: 3#ConferenceChair merged_0.owl
+Traced from: 1#ConferenceChair C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+-----------------------------
+4#ConferenceSession
+Traced from: 1#ConferenceSession C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+Traced from: 3#ConferenceSession merged_0.owl
+-----------------------------
+4#Place
+Traced from: 3#Place merged_0.owl
+Traced from: 1#Place C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+-----------------------------
+4#ConferenceEvent
+Traced from: 3#ConferenceEvent merged_0.owl
+Traced from: 1#ConferenceEvent C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+Traced from: 2#Conference_part C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl
+
+- - - - - - - - - - - - - - - - - - 
+ 4#hasEndDateTime : xsd:dateTime,
+  true end.n.02
+       Traced from: 3#hasEndDateTime merged_0.owl  true end.n.02
+       Traced from: 1#hasEndDateTime C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl  true end.n.02
+
+- - - - - - - - - - - - - - - - - - 
+ 4#hasStartDateTime : xsd:dateTime,
+  true beginning.n.02
+       Traced from: 3#hasStartDateTime merged_0.owl  true beginning.n.02
+       Traced from: 1#hasStartDateTime C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl  true beginning.n.02
+
+- - - - - - - - - - - - - - - - - - 
+ 4#has_a_name__7 : xsd:string,
+  true name.n.01
+       Traced from: 2#has_a_name C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl  true name.n.01
+-----------------------------
+4#MealEvent
+Traced from: 1#MealEvent C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+Traced from: 3#MealEvent merged_0.owl
+-----------------------------
+4#WeekRejectRating
+Traced from: 1#WeekRejectRating C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+Traced from: 3#WeekRejectRating merged_0.owl
+-----------------------------
+4#ComputerNetworksSwitchingTopic
+Traced from: 1#ComputerNetworksSwitchingTopic C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+Traced from: 3#ComputerNetworksSwitchingTopic merged_0.owl
+-----------------------------
+4#MobileComputingTopic
+Traced from: 3#MobileComputingTopic merged_0.owl
+Traced from: 1#MobileComputingTopic C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+-----------------------------
+4#ComputerNetworksMeasurementsTopic
+Traced from: 1#ComputerNetworksMeasurementsTopic C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+Traced from: 3#ComputerNetworksMeasurementsTopic merged_0.owl
+-----------------------------
+4#ReviewForm
+Traced from: 1#ReviewForm C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+Traced from: 3#ReviewForm merged_0.owl
+-----------------------------
+4#MicroelectronicsTopic
+Traced from: 3#MicroelectronicsTopic merged_0.owl
+Traced from: 1#MicroelectronicsTopic C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+-----------------------------
+4#AcceptRating
+Traced from: 1#AcceptRating C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+Traced from: 3#AcceptRating merged_0.owl
+-----------------------------
+4#SecurityTopic
+Traced from: 1#SecurityTopic C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+Traced from: 3#SecurityTopic merged_0.owl
+-----------------------------
+4#RadioCommunicationsTopic
+Traced from: 1#RadioCommunicationsTopic C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+Traced from: 3#RadioCommunicationsTopic merged_0.owl
+-----------------------------
+4#TalkEvent
+Traced from: 3#TalkEvent merged_0.owl
+Traced from: 1#TalkEvent C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+-----------------------------
+4#AccpetIfRoomRating
+Traced from: 1#AccpetIfRoomRating C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+Traced from: 3#AccpetIfRoomRating merged_0.owl
+-----------------------------
+4#ComputerNetworksManagementTopic
+Traced from: 3#ComputerNetworksManagementTopic merged_0.owl
+Traced from: 1#ComputerNetworksManagementTopic C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+-----------------------------
+4#TravelGrant
+Traced from: 3#TravelGrant merged_0.owl
+Traced from: 1#TravelGrant C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+-----------------------------
+4#NGO
+Traced from: 1#NGO C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+Traced from: 3#NGO merged_0.owl
+-----------------------------
+4#AcademiaOrganization
+Traced from: 1#AcademiaOrganization C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+Traced from: 3#AcademiaOrganization merged_0.owl
+-----------------------------
+4#SessionChair
+Traced from: 1#SessionChair C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+Traced from: 3#SessionChair merged_0.owl
+-----------------------------
+4#ConferenceDinner
+Traced from: 1#ConferenceDinner C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+Traced from: 3#ConferenceDinner merged_0.owl
+-----------------------------
+4#AccommodationPlace
+Traced from: 3#AccommodationPlace merged_0.owl
+Traced from: 1#AccommodationPlace C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+-----------------------------
+4#CoffeeBreak
+Traced from: 1#CoffeeBreak C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+Traced from: 3#CoffeeBreak merged_0.owl
+-----------------------------
+4#RejectedPaper
+Traced from: 3#RejectedPaper merged_0.owl
+Traced from: 2#Rejected_contribution C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl
+Traced from: 1#RejectedPaper C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+-----------------------------
+4#Review
+Traced from: 1#Review C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+Traced from: 3#Review merged_0.owl
+Traced from: 2#Review C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl
+-----------------------------
+4#ComputerNetworksOpticalTopic
+Traced from: 1#ComputerNetworksOpticalTopic C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+Traced from: 3#ComputerNetworksOpticalTopic merged_0.owl
+-----------------------------
+4#MealMenu
+Traced from: 1#MealMenu C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+Traced from: 3#MealMenu merged_0.owl
+-----------------------------
+4#PerformanceTopic
+Traced from: 3#PerformanceTopic merged_0.owl
+Traced from: 1#PerformanceTopic C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+-----------------------------
+4#SingleLevelConference
+Traced from: 3#SingleLevelConference merged_0.owl
+Traced from: 1#SingleLevelConference C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+-----------------------------
+4#Topic
+Traced from: 2#Topic C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl
+Traced from: 3#Topic merged_0.owl
+Traced from: 1#Topic C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+
+- - - - - - - - - - - - - - - - - - 
+ 4#has_a_name__16 : xsd:string,
+  true name.n.01
+       Traced from: 2#has_a_name C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl  true name.n.01
+-----------------------------
+4#CallForReviews
+Traced from: 1#CallForReviews C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+Traced from: 3#CallForReviews merged_0.owl
+-----------------------------
+4#ComputerNetworksSensorTopic
+Traced from: 1#ComputerNetworksSensorTopic C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+Traced from: 3#ComputerNetworksSensorTopic merged_0.owl
+-----------------------------
+4#WirelessCommunicationsTopic
+Traced from: 3#WirelessCommunicationsTopic merged_0.owl
+Traced from: 1#WirelessCommunicationsTopic C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+-----------------------------
+4#ActivePaper
+Traced from: 3#ActivePaper merged_0.owl
+Traced from: 1#ActivePaper C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+-----------------------------
+4#Excursion
+Traced from: 3#Excursion merged_0.owl
+Traced from: 1#Excursion C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+-----------------------------
+4#MeetingRoomPlace
+Traced from: 3#MeetingRoomPlace merged_0.owl
+Traced from: 1#MeetingRoomPlace C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+-----------------------------
+4#Attendee
+Traced from: 2#Conference_participant C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl
+Traced from: 1#Attendee C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+Traced from: 3#Attendee merged_0.owl
+-----------------------------
+4#BreakEvent
+Traced from: 3#BreakEvent merged_0.owl
+Traced from: 1#BreakEvent C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+-----------------------------
+4#ContactInformation
+Traced from: 3#ContactInformation merged_0.owl
+Traced from: 1#ContactInformation C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+
+- - - - - - - - - - - - - - - - - - 
+ 4#hasPostalCode : xsd:string,
+       Traced from: 3#hasPostalCode merged_0.owl 
+       Traced from: 1#hasPostalCode C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl 
+
+- - - - - - - - - - - - - - - - - - 
+ 4#hasStreet : xsd:string,
+       Traced from: 3#hasStreet merged_0.owl 
+       Traced from: 1#hasStreet C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl 
+
+- - - - - - - - - - - - - - - - - - 
+ 4#hasCity : xsd:string,
+       Traced from: 3#hasCity merged_0.owl 
+       Traced from: 1#hasCity C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl 
+
+- - - - - - - - - - - - - - - - - - 
+ 4#hasPhone : xsd:string,
+       Traced from: 1#hasPhone C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl 
+       Traced from: 3#hasPhone merged_0.owl 
+
+- - - - - - - - - - - - - - - - - - 
+ 4#hasEmail__2 : xsd:string,
+  true electronic_mail.n.01
+       Traced from: 3#hasEmail merged_0.owl  true electronic_mail.n.01
+       Traced from: 1#hasEmail C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl  true electronic_mail.n.01
+-----------------------------
+4#SlideSet
+Traced from: 1#SlideSet C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+Traced from: 3#SlideSet merged_0.owl
+-----------------------------
+4#ReviewQuestion
+Traced from: 3#ReviewQuestion merged_0.owl
+Traced from: 1#ReviewQuestion C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+-----------------------------
+4#Presenter
+Traced from: 3#Presenter merged_0.owl
+Traced from: 1#Presenter C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+-----------------------------
+4#Paper
+Traced from: 3#Paper merged_0.owl
+Traced from: 2#Paper C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl
+Traced from: 1#Paper C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+-----------------------------
+4#TPCMember
+Traced from: 3#TPCMember merged_0.owl
+Traced from: 1#TPCMember C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+-----------------------------
+4#PendingPaper
+Traced from: 3#PendingPaper merged_0.owl
+Traced from: 1#PendingPaper C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+-----------------------------
+4#IndustryOrganization
+Traced from: 3#IndustryOrganization merged_0.owl
+Traced from: 1#IndustryOrganization C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\edas.owl
+-----------------------------
+4#Regular_contribution
+Traced from: 2#Regular_contribution C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl
+-----------------------------
+4#Organizing_committee
+Traced from: 2#Organizing_committee C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl
+-----------------------------
+4#Conference
+Traced from: 2#Conference C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl
+
+- - - - - - - - - - - - - - - - - - 
+ 4#has_a_name__3 : xsd:string,
+  true name.n.01
+       Traced from: 2#has_a_name C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl  true name.n.01
+-----------------------------
+4#Review_expertise
+Traced from: 2#Review_expertise C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl
+
+- - - - - - - - - - - - - - - - - - 
+ 4#has_an_expertise : xsd:string,
+       Traced from: 2#has_an_expertise C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl 
+-----------------------------
+4#Track-workshop_chair
+Traced from: 2#Track-workshop_chair C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl
+-----------------------------
+4#Written_contribution
+Traced from: 2#Written_contribution C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl
+-----------------------------
+4#Thing
+Traced from: 2#Thing C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl
+-----------------------------
+4#Tutorial
+Traced from: 2#Tutorial C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl
+-----------------------------
+4#Conference_www
+Traced from: 2#Conference_www C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl
+
+- - - - - - - - - - - - - - - - - - 
+ 4#has_a_URL : xsd:string,
+       Traced from: 2#has_a_URL C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl 
+-----------------------------
+4#Extended_abstract
+Traced from: 2#Extended_abstract C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl
+-----------------------------
+4#Active_conference_participant
+Traced from: 2#Active_conference_participant C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl
+-----------------------------
+4#Review_preference
+Traced from: 2#Review_preference C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl
+
+- - - - - - - - - - - - - - - - - - 
+ 4#has_a_degree : xsd:int,
+       Traced from: 2#has_a_degree C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl 
+-----------------------------
+4#Late_paid_applicant
+Traced from: 2#Late_paid_applicant C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl
+-----------------------------
+4#Program_committee
+Traced from: 2#Program_committee C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl
+-----------------------------
+4#Conference_announcement
+Traced from: 2#Conference_announcement C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl
+-----------------------------
+4#Poster
+Traced from: 2#Poster C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl
+-----------------------------
+4#Conference_contribution
+Traced from: 2#Conference_contribution C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl
+-----------------------------
+4#Paid_applicant
+Traced from: 2#Paid_applicant C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl
+-----------------------------
+4#Organizer
+Traced from: 2#Organizer C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl
+-----------------------------
+4#Chair
+Traced from: 2#Chair C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl
+-----------------------------
+4#Information_for_participants
+Traced from: 2#Information_for_participants C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl
+-----------------------------
+4#Committee
+Traced from: 2#Committee C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl
+-----------------------------
+4#Important_dates
+Traced from: 2#Important_dates C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl
+
+- - - - - - - - - - - - - - - - - - 
+ 4#is_a_full_paper_submission_date : xsd:date,
+       Traced from: 2#is_a_full_paper_submission_date C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl 
+
+- - - - - - - - - - - - - - - - - - 
+ 4#is_a_date_of_camera_ready_paper_submission : xsd:date,
+       Traced from: 2#is_a_date_of_camera_ready_paper_submission C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl 
+
+- - - - - - - - - - - - - - - - - - 
+ 4#is_a_date_of_acceptance_announcement : xsd:date,
+       Traced from: 2#is_a_date_of_acceptance_announcement C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl 
+
+- - - - - - - - - - - - - - - - - - 
+ 4#is_an_ending_date : xsd:date,
+       Traced from: 2#is_an_ending_date C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl 
+
+- - - - - - - - - - - - - - - - - - 
+ 4#is_an_abstract_submission_date : xsd:date,
+       Traced from: 2#is_an_abstract_submission_date C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl 
+
+- - - - - - - - - - - - - - - - - - 
+ 4#is_a_starting_date : xsd:date,
+       Traced from: 2#is_a_starting_date C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl 
+-----------------------------
+4#Steering_committee
+Traced from: 2#Steering_committee C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl
+-----------------------------
+4#Call_for_paper
+Traced from: 2#Call_for_paper C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl
+-----------------------------
+4#Camera_ready_contribution
+Traced from: 2#Camera_ready_contribution C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl
+-----------------------------
+4#Invited_speaker
+Traced from: 2#Invited_speaker C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl
+-----------------------------
+4#Reviewed_contribution
+Traced from: 2#Reviewed_contribution C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl
+-----------------------------
+4#Invited_talk
+Traced from: 2#Invited_talk C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl
+-----------------------------
+4#Passive_conference_participant
+Traced from: 2#Passive_conference_participant C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl
+-----------------------------
+4#Abstract
+Traced from: 2#Abstract C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl
+-----------------------------
+4#Contribution_1th-author
+Traced from: 2#Contribution_1th-author C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl
+-----------------------------
+4#Contribution_co-author
+Traced from: 2#Contribution_co-author C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl
+-----------------------------
+4#Conference_contributor
+Traced from: 2#Conference_contributor C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl
+-----------------------------
+4#Committee_member
+Traced from: 2#Committee_member C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl
+-----------------------------
+4#Publisher
+Traced from: 2#Publisher C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl
+
+- - - - - - - - - - - - - - - - - - 
+ 4#has_a_name__19 : xsd:string,
+  true name.n.01
+       Traced from: 2#has_a_name C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl  true name.n.01
+-----------------------------
+4#Presentation
+Traced from: 2#Presentation C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl
+-----------------------------
+4#Conference_proceedings
+Traced from: 2#Conference_proceedings C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl
+
+- - - - - - - - - - - - - - - - - - 
+ 4#has_an_ISBN : xsd:string,
+       Traced from: 2#has_an_ISBN C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl 
+
+- - - - - - - - - - - - - - - - - - 
+ 4#has_a_name__23 : xsd:string,
+  true name.n.01
+       Traced from: 2#has_a_name C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl  true name.n.01
+
+- - - - - - - - - - - - - - - - - - 
+ 4#has_a_volume : xsd:int,
+       Traced from: 2#has_a_volume C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl 
+-----------------------------
+4#Early_paid_applicant
+Traced from: 2#Early_paid_applicant C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl
+-----------------------------
+4#Co-chair
+Traced from: 2#Co-chair C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl
+-----------------------------
+4#Submitted_contribution
+Traced from: 2#Submitted_contribution C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl
+-----------------------------
+4#Conference_fees
+Traced from: 2#Conference_fees C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl
+-----------------------------
+4#Registeered_applicant
+Traced from: 2#Registeered_applicant C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl
+-----------------------------
+4#Call_for_participation
+Traced from: 2#Call_for_participation C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl
+-----------------------------
+4#Conference_applicant
+Traced from: 2#Conference_applicant C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl
+-----------------------------
+4#Track
+Traced from: 2#Track C:\Bogusia\GitHub\OntologyIntegrationFramework\Ania\conference.owl
+========================
+Distance at concept level: 0.934118758434548
+========================
+Total number of concepts: 150
+Total number of merged concepts: 14
+========================

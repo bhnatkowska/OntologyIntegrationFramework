@@ -1,0 +1,708 @@
+========================
+Ontology :4 merged_1.owl
+-----------------------------
+4#Company
+Traced from: 1#Company /Users/martinez/2019.12.10 palak expert 4/confOf.owl
+Traced from: 3#Company merged_0.owl
+-----------------------------
+4#Organization
+Traced from: 1#Organization /Users/martinez/2019.12.10 palak expert 4/confOf.owl
+Traced from: 2#Organization /Users/martinez/2019.12.10 palak expert 4/edas.owl
+Traced from: 3#Organization merged_0.owl
+
+- - - - - - - - - - - - - - - - - -
+ 4#hasPostalCode__38 : xsd:string,
+       Traced from: 1#hasPostalCode /Users/martinez/2019.12.10 palak expert 4/confOf.owl
+       Traced from: 3#hasPostalCode merged_0.owl
+
+- - - - - - - - - - - - - - - - - -
+ 4#hasStreet__37 : xsd:string,
+  false street.n.01
+       Traced from: 1#hasStreet /Users/martinez/2019.12.10 palak expert 4/confOf.owl  false street.n.01
+       Traced from: 3#hasStreet merged_0.owl  false street.n.01
+-----------------------------
+4#Working_event
+Traced from: 1#Working_event /Users/martinez/2019.12.10 palak expert 4/confOf.owl
+Traced from: 2#AcademicEvent /Users/martinez/2019.12.10 palak expert 4/edas.owl
+Traced from: 3#Working_event merged_0.owl
+
+- - - - - - - - - - - - - - - - - -
+ 4#minChoice__25 : xsd:positiveInteger,
+  false option.n.02
+       Traced from: 1#minChoice /Users/martinez/2019.12.10 palak expert 4/confOf.owl  false option.n.02
+       Traced from: 3#minChoice merged_0.owl  false option.n.02
+
+- - - - - - - - - - - - - - - - - -
+ 4#defaultChoice__29 : xsd:positiveInteger,
+  false default_option.n.01
+       Traced from: 1#defaultChoice /Users/martinez/2019.12.10 palak expert 4/confOf.owl  false default_option.n.01
+       Traced from: 3#defaultChoice merged_0.owl  false default_option.n.01
+
+- - - - - - - - - - - - - - - - - -
+ 4#hasVAT__26 : xsd:string,
+  true vat.n.01
+       Traced from: 3#hasVAT merged_0.owl  true vat.n.01
+       Traced from: 1#hasVAT /Users/martinez/2019.12.10 palak expert 4/confOf.owl  true vat.n.01
+
+- - - - - - - - - - - - - - - - - -
+ 4#has_short_title__27 : xsd:string,
+  false title.n.03
+       Traced from: 3#has_short_title merged_0.owl  false title.n.03
+       Traced from: 1#has_short_title /Users/martinez/2019.12.10 palak expert 4/confOf.owl  false title.n.03
+
+- - - - - - - - - - - - - - - - - -
+ 4#maxChoice__30 : xsd:positiveInteger,
+  false option.n.02
+       Traced from: 3#maxChoice merged_0.owl  false option.n.02
+       Traced from: 1#maxChoice /Users/martinez/2019.12.10 palak expert 4/confOf.owl  false option.n.02
+
+- - - - - - - - - - - - - - - - - -
+ 4#has_title__31 : xsd:string,
+  false title.n.01
+       Traced from: 1#has_title /Users/martinez/2019.12.10 palak expert 4/confOf.owl  false title.n.01
+       Traced from: 3#has_title merged_0.owl  false title.n.01
+
+- - - - - - - - - - - - - - - - - -
+ 4#location__28 : xsd:string,
+  true localization.n.01
+       Traced from: 3#location merged_0.owl  true localization.n.01
+       Traced from: 1#location /Users/martinez/2019.12.10 palak expert 4/confOf.owl  true localization.n.01
+-----------------------------
+4#Camera_Ready_event
+Traced from: 1#Camera_Ready_event /Users/martinez/2019.12.10 palak expert 4/confOf.owl
+Traced from: 3#Camera_Ready_event merged_0.owl
+-----------------------------
+4#Scholar
+Traced from: 3#Scholar merged_0.owl
+Traced from: 1#Scholar /Users/martinez/2019.12.10 palak expert 4/confOf.owl
+-----------------------------
+4#Regular
+Traced from: 1#Regular /Users/martinez/2019.12.10 palak expert 4/confOf.owl
+Traced from: 3#Regular merged_0.owl
+-----------------------------
+4#Volunteer
+Traced from: 3#Volunteer merged_0.owl
+Traced from: 1#Volunteer /Users/martinez/2019.12.10 palak expert 4/confOf.owl
+-----------------------------
+4#Science_Worker
+Traced from: 1#Science_Worker /Users/martinez/2019.12.10 palak expert 4/confOf.owl
+Traced from: 3#Science_Worker merged_0.owl
+-----------------------------
+4#Conference
+Traced from: 3#Conference merged_0.owl
+Traced from: 1#Conference /Users/martinez/2019.12.10 palak expert 4/confOf.owl
+-----------------------------
+4#Reviewing_results_event
+Traced from: 1#Reviewing_results_event /Users/martinez/2019.12.10 palak expert 4/confOf.owl
+Traced from: 3#Reviewing_results_event merged_0.owl
+-----------------------------
+4#Administrative_event
+Traced from: 1#Administrative_event /Users/martinez/2019.12.10 palak expert 4/confOf.owl
+Traced from: 3#Administrative_event merged_0.owl
+-----------------------------
+4#Administrator
+Traced from: 1#Administrator /Users/martinez/2019.12.10 palak expert 4/confOf.owl
+Traced from: 3#Administrator merged_0.owl
+-----------------------------
+4#Assistant
+Traced from: 3#Assistant merged_0.owl
+Traced from: 1#Assistant /Users/martinez/2019.12.10 palak expert 4/confOf.owl
+-----------------------------
+4#Submission_event
+Traced from: 1#Submission_event /Users/martinez/2019.12.10 palak expert 4/confOf.owl
+Traced from: 3#Submission_event merged_0.owl
+-----------------------------
+4#Workshop
+Traced from: 1#Workshop /Users/martinez/2019.12.10 palak expert 4/confOf.owl
+Traced from: 3#Workshop merged_0.owl
+Traced from: 2#Workshop /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#Short_paper
+Traced from: 3#Short_paper merged_0.owl
+Traced from: 1#Short_paper /Users/martinez/2019.12.10 palak expert 4/confOf.owl
+-----------------------------
+4#Topic
+Traced from: 1#Topic /Users/martinez/2019.12.10 palak expert 4/confOf.owl
+Traced from: 3#Topic merged_0.owl
+Traced from: 2#Topic /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#Member
+Traced from: 3#Member merged_0.owl
+Traced from: 1#Member /Users/martinez/2019.12.10 palak expert 4/confOf.owl
+-----------------------------
+4#Registration_of_participants_event
+Traced from: 3#Registration_of_participants_event merged_0.owl
+Traced from: 1#Registration_of_participants_event /Users/martinez/2019.12.10 palak expert 4/confOf.owl
+-----------------------------
+4#Thing
+Traced from: 1#Thing /Users/martinez/2019.12.10 palak expert 4/confOf.owl
+Traced from: 3#Thing merged_0.owl
+-----------------------------
+4#Tutorial
+Traced from: 3#Tutorial merged_0.owl
+Traced from: 1#Tutorial /Users/martinez/2019.12.10 palak expert 4/confOf.owl
+-----------------------------
+4#Trip
+Traced from: 1#Trip /Users/martinez/2019.12.10 palak expert 4/confOf.owl
+Traced from: 2#Excursion /Users/martinez/2019.12.10 palak expert 4/edas.owl
+Traced from: 3#Trip merged_0.owl
+-----------------------------
+4#Banquet
+Traced from: 1#Banquet /Users/martinez/2019.12.10 palak expert 4/confOf.owl
+Traced from: 3#Banquet merged_0.owl
+-----------------------------
+4#Member_PC
+Traced from: 2#TPCMember /Users/martinez/2019.12.10 palak expert 4/edas.owl
+Traced from: 3#Member_PC merged_0.owl
+Traced from: 1#Member_PC /Users/martinez/2019.12.10 palak expert 4/confOf.owl
+-----------------------------
+4#Reception
+Traced from: 2#Reception /Users/martinez/2019.12.10 palak expert 4/edas.owl
+Traced from: 3#Reception merged_0.owl
+Traced from: 1#Reception /Users/martinez/2019.12.10 palak expert 4/confOf.owl
+-----------------------------
+4#City
+Traced from: 3#City merged_0.owl
+Traced from: 1#City /Users/martinez/2019.12.10 palak expert 4/confOf.owl
+-----------------------------
+4#Student
+Traced from: 3#Student merged_0.owl
+Traced from: 1#Student /Users/martinez/2019.12.10 palak expert 4/confOf.owl
+-----------------------------
+4#Chair_PC
+Traced from: 1#Chair_PC /Users/martinez/2019.12.10 palak expert 4/confOf.owl
+Traced from: 3#Chair_PC merged_0.owl
+-----------------------------
+4#Participant
+Traced from: 1#Participant /Users/martinez/2019.12.10 palak expert 4/confOf.owl
+Traced from: 2#Attendee /Users/martinez/2019.12.10 palak expert 4/edas.owl
+Traced from: 3#Participant merged_0.owl
+
+- - - - - - - - - - - - - - - - - -
+ 4#earlyRegistration : xsd:boolean,
+  false registration.n.01
+       Traced from: 1#earlyRegistration /Users/martinez/2019.12.10 palak expert 4/confOf.owl  false registration.n.01
+       Traced from: 3#earlyRegistration merged_0.owl  false registration.n.01
+-----------------------------
+4#University
+Traced from: 3#University merged_0.owl
+Traced from: 1#University /Users/martinez/2019.12.10 palak expert 4/confOf.owl
+-----------------------------
+4#Poster
+Traced from: 1#Poster /Users/martinez/2019.12.10 palak expert 4/confOf.owl
+Traced from: 3#Poster merged_0.owl
+-----------------------------
+4#Social_event
+Traced from: 3#Social_event merged_0.owl
+Traced from: 2#SocialEvent /Users/martinez/2019.12.10 palak expert 4/edas.owl
+Traced from: 1#Social_event /Users/martinez/2019.12.10 palak expert 4/confOf.owl
+
+- - - - - - - - - - - - - - - - - -
+ 4#minChoice__42 : xsd:positiveInteger,
+  false option.n.02
+       Traced from: 1#minChoice /Users/martinez/2019.12.10 palak expert 4/confOf.owl  false option.n.02
+       Traced from: 3#minChoice merged_0.owl  false option.n.02
+
+- - - - - - - - - - - - - - - - - -
+ 4#defaultChoice__43 : xsd:positiveInteger,
+  false default_option.n.01
+       Traced from: 1#defaultChoice /Users/martinez/2019.12.10 palak expert 4/confOf.owl  false default_option.n.01
+       Traced from: 3#defaultChoice merged_0.owl  false default_option.n.01
+
+- - - - - - - - - - - - - - - - - -
+ 4#hasVAT__45 : xsd:string,
+  true vat.n.01
+       Traced from: 1#hasVAT /Users/martinez/2019.12.10 palak expert 4/confOf.owl  true vat.n.01
+       Traced from: 3#hasVAT merged_0.owl  true vat.n.01
+
+- - - - - - - - - - - - - - - - - -
+ 4#has_short_title__41 : xsd:string,
+  false title.n.03
+       Traced from: 3#has_short_title merged_0.owl  false title.n.03
+       Traced from: 1#has_short_title /Users/martinez/2019.12.10 palak expert 4/confOf.owl  false title.n.03
+
+- - - - - - - - - - - - - - - - - -
+ 4#maxChoice__44 : xsd:positiveInteger,
+  false option.n.02
+       Traced from: 1#maxChoice /Users/martinez/2019.12.10 palak expert 4/confOf.owl  false option.n.02
+       Traced from: 3#maxChoice merged_0.owl  false option.n.02
+
+- - - - - - - - - - - - - - - - - -
+ 4#has_title__40 : xsd:string,
+  false title.n.01
+       Traced from: 1#has_title /Users/martinez/2019.12.10 palak expert 4/confOf.owl  false title.n.01
+       Traced from: 3#has_title merged_0.owl  false title.n.01
+
+- - - - - - - - - - - - - - - - - -
+ 4#location__39 : xsd:string,
+  true localization.n.01
+       Traced from: 1#location /Users/martinez/2019.12.10 palak expert 4/confOf.owl  true localization.n.01
+       Traced from: 3#location merged_0.owl  true localization.n.01
+-----------------------------
+4#Author
+Traced from: 1#Author /Users/martinez/2019.12.10 palak expert 4/confOf.owl
+Traced from: 3#Author merged_0.owl
+Traced from: 2#Author /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#Country
+Traced from: 1#Country /Users/martinez/2019.12.10 palak expert 4/confOf.owl
+Traced from: 2#Country /Users/martinez/2019.12.10 palak expert 4/edas.owl
+Traced from: 3#Country merged_0.owl
+-----------------------------
+4#Event
+Traced from: 3#Event merged_0.owl
+Traced from: 2#ConferenceEvent /Users/martinez/2019.12.10 palak expert 4/edas.owl
+Traced from: 1#Event /Users/martinez/2019.12.10 palak expert 4/confOf.owl
+
+- - - - - - - - - - - - - - - - - -
+ 4#ends_on : xsd:string,
+  true end.n.02
+       Traced from: 3#ends_on merged_0.owl  true end.n.02
+       Traced from: 1#ends_on /Users/martinez/2019.12.10 palak expert 4/confOf.owl  true end.n.02
+       Traced from: 2#hasEndDateTime /Users/martinez/2019.12.10 palak expert 4/edas.owl  true end.n.02
+
+- - - - - - - - - - - - - - - - - -
+ 4#starts_on : xsd:string,
+  true beginning.n.02
+       Traced from: 3#starts_on merged_0.owl  true beginning.n.02
+       Traced from: 1#starts_on /Users/martinez/2019.12.10 palak expert 4/confOf.owl  true beginning.n.02
+       Traced from: 2#hasStartDateTime /Users/martinez/2019.12.10 palak expert 4/edas.owl  true beginning.n.02
+-----------------------------
+4#Paper
+Traced from: 2#Paper /Users/martinez/2019.12.10 palak expert 4/edas.owl
+Traced from: 1#Paper /Users/martinez/2019.12.10 palak expert 4/confOf.owl
+Traced from: 3#Paper merged_0.owl
+-----------------------------
+4#Reviewing_event
+Traced from: 1#Reviewing_event /Users/martinez/2019.12.10 palak expert 4/confOf.owl
+Traced from: 3#Reviewing_event merged_0.owl
+-----------------------------
+4#Person
+Traced from: 3#Person merged_0.owl
+Traced from: 2#Person /Users/martinez/2019.12.10 palak expert 4/edas.owl
+Traced from: 1#Person /Users/martinez/2019.12.10 palak expert 4/confOf.owl
+
+- - - - - - - - - - - - - - - - - -
+ 4#hasPostalCode__36 : xsd:string,
+       Traced from: 1#hasPostalCode /Users/martinez/2019.12.10 palak expert 4/confOf.owl
+       Traced from: 3#hasPostalCode merged_0.owl
+
+- - - - - - - - - - - - - - - - - -
+ 4#hasEmail__0 : xsd:string,
+  false electronic_mail.n.01
+       Traced from: 3#hasEmail merged_0.owl  false electronic_mail.n.01
+       Traced from: 1#hasEmail /Users/martinez/2019.12.10 palak expert 4/confOf.owl  false electronic_mail.n.01
+
+- - - - - - - - - - - - - - - - - -
+ 4#hasHomePage : xsd:string,
+  false web_site.n.01
+       Traced from: 1#hasHomePage /Users/martinez/2019.12.10 palak expert 4/confOf.owl  false web_site.n.01
+       Traced from: 3#hasHomePage merged_0.owl  false web_site.n.01
+
+- - - - - - - - - - - - - - - - - -
+ 4#hasFax : xsd:string,
+  false facsimile.n.02
+       Traced from: 1#hasFax /Users/martinez/2019.12.10 palak expert 4/confOf.owl  false facsimile.n.02
+       Traced from: 3#hasFax merged_0.owl  false facsimile.n.02
+
+- - - - - - - - - - - - - - - - - -
+ 4#hasFirstName : xsd:string,
+  false name.n.01
+       Traced from: 2#hasFirstName /Users/martinez/2019.12.10 palak expert 4/edas.owl  true name.n.01
+       Traced from: 3#hasFirstName merged_0.owl  false name.n.01
+       Traced from: 1#hasFirstName /Users/martinez/2019.12.10 palak expert 4/confOf.owl  false name.n.01
+
+- - - - - - - - - - - - - - - - - -
+ 4#hasStreet__35 : xsd:string,
+  false street.n.01
+       Traced from: 1#hasStreet /Users/martinez/2019.12.10 palak expert 4/confOf.owl  false street.n.01
+       Traced from: 3#hasStreet merged_0.owl  false street.n.01
+
+- - - - - - - - - - - - - - - - - -
+ 4#hasPhone__0 : xsd:string,
+  false telephone.n.01
+       Traced from: 3#hasPhone merged_0.owl  false telephone.n.01
+       Traced from: 1#hasPhone /Users/martinez/2019.12.10 palak expert 4/confOf.owl  false telephone.n.01
+
+- - - - - - - - - - - - - - - - - -
+ 4#hasSurname : xsd:string,
+  true surname.n.01
+       Traced from: 3#hasSurname merged_0.owl  true surname.n.01
+       Traced from: 1#hasSurname /Users/martinez/2019.12.10 palak expert 4/confOf.owl  true surname.n.01
+       Traced from: 2#hasLastName /Users/martinez/2019.12.10 palak expert 4/edas.owl  true surname.n.01
+
+- - - - - - - - - - - - - - - - - -
+ 4#hasEmail__34 : xsd:string,
+  false electronic_mail.n.01
+       Traced from: 2#hasEmail /Users/martinez/2019.12.10 palak expert 4/edas.owl  false electronic_mail.n.01
+
+- - - - - - - - - - - - - - - - - -
+ 4#hasBiography : xsd:string,
+  true biography.n.01
+       Traced from: 2#hasBiography /Users/martinez/2019.12.10 palak expert 4/edas.owl  true biography.n.01
+-----------------------------
+4#Contribution
+Traced from: 1#Contribution /Users/martinez/2019.12.10 palak expert 4/confOf.owl
+Traced from: 3#Contribution merged_0.owl
+
+- - - - - - - - - - - - - - - - - -
+ 4#hasKeyword : xsd:string,
+       Traced from: 1#hasKeyword /Users/martinez/2019.12.10 palak expert 4/confOf.owl
+       Traced from: 3#hasKeyword merged_0.owl
+
+- - - - - - - - - - - - - - - - - -
+ 4#abstract : xsd:string,
+       Traced from: 1#abstract /Users/martinez/2019.12.10 palak expert 4/confOf.owl
+       Traced from: 3#abstract merged_0.owl
+
+- - - - - - - - - - - - - - - - - -
+ 4#contactEmail : xsd:string,
+       Traced from: 1#contactEmail /Users/martinez/2019.12.10 palak expert 4/confOf.owl
+       Traced from: 3#contactEmail merged_0.owl
+
+- - - - - - - - - - - - - - - - - -
+ 4#hasTitle : xsd:string,
+       Traced from: 1#hasTitle /Users/martinez/2019.12.10 palak expert 4/confOf.owl
+       Traced from: 3#hasTitle merged_0.owl
+
+- - - - - - - - - - - - - - - - - -
+ 4#remark : xsd:string,
+       Traced from: 1#remark /Users/martinez/2019.12.10 palak expert 4/confOf.owl
+       Traced from: 3#remark merged_0.owl
+-----------------------------
+4#OperatingTopicsystems
+Traced from: 2#OperatingTopicsystems /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#RatedPapers
+Traced from: 2#RatedPapers /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#ComputerNetworksTopic
+Traced from: 2#ComputerNetworksTopic /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#Document
+Traced from: 2#Document /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#Conference
+Traced from: 2#Conference /Users/martinez/2019.12.10 palak expert 4/edas.owl
+
+- - - - - - - - - - - - - - - - - -
+ 4#endDate : xsd:dateTime,
+       Traced from: 2#endDate /Users/martinez/2019.12.10 palak expert 4/edas.owl
+
+- - - - - - - - - - - - - - - - - -
+ 4#registrationDueOn : xsd:dateTime,
+       Traced from: 2#registrationDueOn /Users/martinez/2019.12.10 palak expert 4/edas.owl
+
+- - - - - - - - - - - - - - - - - -
+ 4#manuscriptDueOn : xsd:dateTime,
+       Traced from: 2#manuscriptDueOn /Users/martinez/2019.12.10 palak expert 4/edas.owl
+
+- - - - - - - - - - - - - - - - - -
+ 4#startDate : xsd:dateTime,
+       Traced from: 2#startDate /Users/martinez/2019.12.10 palak expert 4/edas.owl
+
+- - - - - - - - - - - - - - - - - -
+ 4#hasName : xsd:string,
+       Traced from: 2#hasName /Users/martinez/2019.12.10 palak expert 4/edas.owl
+
+- - - - - - - - - - - - - - - - - -
+ 4#paperDueOn : xsd:dateTime,
+       Traced from: 2#paperDueOn /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#CryptographyTopic
+Traced from: 2#CryptographyTopic /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#PowerlineTransmissionTopic
+Traced from: 2#PowerlineTransmissionTopic /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#MedicineTopic
+Traced from: 2#MedicineTopic /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#MealBreak
+Traced from: 2#MealBreak /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#SatelliteAndSpaceCommunicationsTopic
+Traced from: 2#SatelliteAndSpaceCommunicationsTopic /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#CallForManuscripts
+Traced from: 2#CallForManuscripts /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#ConferenceVenuePlace
+Traced from: 2#ConferenceVenuePlace /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#ComputerNetworksAapplicationsTopic
+Traced from: 2#ComputerNetworksAapplicationsTopic /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#Thing
+Traced from: 2#Thing /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#TwoLevelConference
+Traced from: 2#TwoLevelConference /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#FreeTimeBreak
+Traced from: 2#FreeTimeBreak /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#PaperPresentation
+Traced from: 2#PaperPresentation /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#ComputerNetworksSecurityTopic
+Traced from: 2#ComputerNetworksSecurityTopic /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#Sponsorship
+Traced from: 2#Sponsorship /Users/martinez/2019.12.10 palak expert 4/edas.owl
+
+- - - - - - - - - - - - - - - - - -
+ 4#hasCostCurrency : xsd:string,
+       Traced from: 2#hasCostCurrency /Users/martinez/2019.12.10 palak expert 4/edas.owl
+
+- - - - - - - - - - - - - - - - - -
+ 4#hasCostAmount : xsd:int,
+       Traced from: 2#hasCostAmount /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#AntennasTopic
+Traced from: 2#AntennasTopic /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#TestOnlyTopic
+Traced from: 2#TestOnlyTopic /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#WithdrawnPaper
+Traced from: 2#WithdrawnPaper /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#SignalProcessingTopic
+Traced from: 2#SignalProcessingTopic /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#TextualReviewQuestion
+Traced from: 2#TextualReviewQuestion /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#WelcomeTalk
+Traced from: 2#WelcomeTalk /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#ClosingTalk
+Traced from: 2#ClosingTalk /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#PersonalHistory
+Traced from: 2#PersonalHistory /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#DiningPlace
+Traced from: 2#DiningPlace /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#ComputerArchitectureTopic
+Traced from: 2#ComputerArchitectureTopic /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#PublishedPaper
+Traced from: 2#PublishedPaper /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#CallForPapers
+Traced from: 2#CallForPapers /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#PersonalReviewHistory
+Traced from: 2#PersonalReviewHistory /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#Programme
+Traced from: 2#Programme /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#ReviewRating
+Traced from: 2#ReviewRating /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#ComputerNetworksEnterpriseTopic
+Traced from: 2#ComputerNetworksEnterpriseTopic /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#NonAcademicEvent
+Traced from: 2#NonAcademicEvent /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#NumericalReviewQuestion
+Traced from: 2#NumericalReviewQuestion /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#RejectRating
+Traced from: 2#RejectRating /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#OrganizationalMeeting
+Traced from: 2#OrganizationalMeeting /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#CommunicationsTopic
+Traced from: 2#CommunicationsTopic /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#PersonalPublicationHistory
+Traced from: 2#PersonalPublicationHistory /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#Call
+Traced from: 2#Call /Users/martinez/2019.12.10 palak expert 4/edas.owl
+
+- - - - - - - - - - - - - - - - - -
+ 4#hasSubmissionInstructions : xsd:string,
+       Traced from: 2#hasSubmissionInstructions /Users/martinez/2019.12.10 palak expert 4/edas.owl
+
+- - - - - - - - - - - - - - - - - -
+ 4#hasSubmissionDeadline : xsd:dateTime,
+       Traced from: 2#hasSubmissionDeadline /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#ParallelAndDistributedComputingTopic
+Traced from: 2#ParallelAndDistributedComputingTopic /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#CommunicationTheoryTopic
+Traced from: 2#CommunicationTheoryTopic /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#CADTopic
+Traced from: 2#CADTopic /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#Reviewer
+Traced from: 2#Reviewer /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#AcceptedPaper
+Traced from: 2#AcceptedPaper /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#GovernmentOrganization
+Traced from: 2#GovernmentOrganization /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#MultimediaTopic
+Traced from: 2#MultimediaTopic /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#ConferenceChair
+Traced from: 2#ConferenceChair /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#ConferenceSession
+Traced from: 2#ConferenceSession /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#Place
+Traced from: 2#Place /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#MealEvent
+Traced from: 2#MealEvent /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#WeekRejectRating
+Traced from: 2#WeekRejectRating /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#ComputerNetworksSwitchingTopic
+Traced from: 2#ComputerNetworksSwitchingTopic /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#MobileComputingTopic
+Traced from: 2#MobileComputingTopic /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#ComputerNetworksMeasurementsTopic
+Traced from: 2#ComputerNetworksMeasurementsTopic /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#ReviewForm
+Traced from: 2#ReviewForm /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#MicroelectronicsTopic
+Traced from: 2#MicroelectronicsTopic /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#AcceptRating
+Traced from: 2#AcceptRating /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#SecurityTopic
+Traced from: 2#SecurityTopic /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#RadioCommunicationsTopic
+Traced from: 2#RadioCommunicationsTopic /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#TalkEvent
+Traced from: 2#TalkEvent /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#AccpetIfRoomRating
+Traced from: 2#AccpetIfRoomRating /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#ComputerNetworksManagementTopic
+Traced from: 2#ComputerNetworksManagementTopic /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#TravelGrant
+Traced from: 2#TravelGrant /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#NGO
+Traced from: 2#NGO /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#AcademiaOrganization
+Traced from: 2#AcademiaOrganization /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#SessionChair
+Traced from: 2#SessionChair /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#ConferenceDinner
+Traced from: 2#ConferenceDinner /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#AccommodationPlace
+Traced from: 2#AccommodationPlace /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#CoffeeBreak
+Traced from: 2#CoffeeBreak /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#RejectedPaper
+Traced from: 2#RejectedPaper /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#Review
+Traced from: 2#Review /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#ComputerNetworksOpticalTopic
+Traced from: 2#ComputerNetworksOpticalTopic /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#MealMenu
+Traced from: 2#MealMenu /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#PerformanceTopic
+Traced from: 2#PerformanceTopic /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#SingleLevelConference
+Traced from: 2#SingleLevelConference /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#CallForReviews
+Traced from: 2#CallForReviews /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#ComputerNetworksSensorTopic
+Traced from: 2#ComputerNetworksSensorTopic /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#WirelessCommunicationsTopic
+Traced from: 2#WirelessCommunicationsTopic /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#ActivePaper
+Traced from: 2#ActivePaper /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#MeetingRoomPlace
+Traced from: 2#MeetingRoomPlace /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#BreakEvent
+Traced from: 2#BreakEvent /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#ContactInformation
+Traced from: 2#ContactInformation /Users/martinez/2019.12.10 palak expert 4/edas.owl
+
+- - - - - - - - - - - - - - - - - -
+ 4#hasPostalCode__55 : xsd:string,
+       Traced from: 2#hasPostalCode /Users/martinez/2019.12.10 palak expert 4/edas.owl
+
+- - - - - - - - - - - - - - - - - -
+ 4#hasEmail__56 : xsd:string,
+  false electronic_mail.n.01
+       Traced from: 2#hasEmail /Users/martinez/2019.12.10 palak expert 4/edas.owl  false electronic_mail.n.01
+
+- - - - - - - - - - - - - - - - - -
+ 4#hasPhone__57 : xsd:string,
+       Traced from: 2#hasPhone /Users/martinez/2019.12.10 palak expert 4/edas.owl
+
+- - - - - - - - - - - - - - - - - -
+ 4#hasCity : xsd:string,
+       Traced from: 2#hasCity /Users/martinez/2019.12.10 palak expert 4/edas.owl
+
+- - - - - - - - - - - - - - - - - -
+ 4#hasStreet__59 : xsd:string,
+       Traced from: 2#hasStreet /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#SlideSet
+Traced from: 2#SlideSet /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#ReviewQuestion
+Traced from: 2#ReviewQuestion /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#Presenter
+Traced from: 2#Presenter /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#PendingPaper
+Traced from: 2#PendingPaper /Users/martinez/2019.12.10 palak expert 4/edas.owl
+-----------------------------
+4#IndustryOrganization
+Traced from: 2#IndustryOrganization /Users/martinez/2019.12.10 palak expert 4/edas.owl
+========================
+Distance at concept level: 0.9276485788113695
+========================
+Total number of concepts: 129
+Total number of merged concepts: 14
+========================

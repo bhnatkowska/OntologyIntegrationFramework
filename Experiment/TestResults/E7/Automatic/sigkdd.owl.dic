@@ -1,0 +1,11 @@
+Nation;true;nation.n.02
+Date;false
+Name_of_conference;true;name.n.01
+Start_of_conference;false;beginning.n.02
+E-mail;true;electronic_mail.n.01
+Currency;false
+Price;false
+Name;true;name.n.01
+End_of_conference;false;end.n.02
+Name_of_sponsor;false
+City_of_conference;true;city.n.01
