@@ -1,22 +1,26 @@
 # OntologyIntegrationFramework
 
-The folder contains executable files for Ontology Integration Framework as well as testing data.
+The folder contains executable files for Ontology Integration Framework as well as testing data and results of conducted experiment.
 
 Content:
-- RestTest.jar - Ontology Integration Tool (OIT); communicates with NLTK library via REST services
-- server.py - REST services (WordNet functions) used by Ontology Integration Tool
-- TestData - six test cases + motivating example; each test case consists of the following elements:
- 1) 2 ontologies to be merged (*.owl)
- 2) a file with ontologies alingment (*.rdf)
- 3) dictionary files with attributes' semantics defined (*.dic); can be renamed or deleted to be skipped
-- TestResults - effects of OIT application to test cases (test1.txt, ..., test6.txt) as well as manual definition of attributes' semantics
+- Framework - folder with executables of Ontology Integration Framework:
+-- RestTest.jar - Ontology Integration Tool (OIT); communicates with NLTK library via REST services
+-- Python/server.py - REST services (WordNet functions) used by Ontology Integration Tool
 
-Prerequisites:
+- Experiment - folder with test data and experiment results
+-- Experiment_plan.xlsx - an Excel spreadsheet with the experiment plan
+-- Data_analysis.xlsx - an Excel spreadsheet with the experiment data
+-- TestData - folder six test cases + motivating example; each test case consists of the following elements:
+   1) 2 ontologies to be merged (*.owl)
+   2) a file with ontologies alingment (*.rdf)
+ -- TestResults - effects of OIT application to test cases and manual definition of attribute semantics prepared by 12 experts
+
+Framework prerequisites:
 - Windows 7 or later
 - java8 jre installed and accessible (via path environment variable)
 - Python 3.7 (32 bit)
 - NLTK library (https://www.nltk.org/)
-- flask server (http://flask.pocoo.org/)
+- flask or other Python server (http://flask.pocoo.org/)
 
 Running procedure:
 1. Download resources (RestTest.jar, Python/server.py, TestData)
