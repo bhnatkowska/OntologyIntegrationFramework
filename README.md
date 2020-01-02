@@ -4,16 +4,22 @@ The folder contains executable files for Ontology Integration Framework as well 
 
 Content:
 - Framework - folder with executables of Ontology Integration Framework:
+
 -- RestTest.jar - Ontology Integration Tool (OIT); communicates with NLTK library via REST services
+
 -- Python/server.py - REST services (WordNet functions) used by Ontology Integration Tool
 
 - Experiment - folder with test data and experiment results
+
 -- Experiment_plan.xlsx - an Excel spreadsheet with the experiment plan
+
 -- Data_analysis.xlsx - an Excel spreadsheet with the experiment data
+
 -- TestData - folder six test cases + motivating example; each test case consists of the following elements:
    1) 2 ontologies to be merged (*.owl)
    2) a file with ontologies alingment (*.rdf)
- -- TestResults - effects of OIT application to test cases and manual definition of attribute semantics prepared by 12 experts
+
+-- TestResults - effects of OIT application to test cases and manual definition of attribute semantics prepared by 12 experts
 
 Framework prerequisites:
 - Windows 7 or later
