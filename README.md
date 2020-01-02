@@ -4,10 +4,8 @@ The folder contains executable files for Ontology Integration Framework as well 
 
 Content:
 - Framework - folder with executables of Ontology Integration Framework:
-
--- RestTest.jar - Ontology Integration Tool (OIT); communicates with NLTK library via REST services
-
--- Python/server.py - REST services (WordNet functions) used by Ontology Integration Tool
+   - RestTest.jar - Ontology Integration Tool (OIT); communicates with NLTK library via REST services
+   - Python/server.py - REST services (WordNet functions) used by Ontology Integration Tool
 
 - Experiment - folder with test data and experiment results
 
